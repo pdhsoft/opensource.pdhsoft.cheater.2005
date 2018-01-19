@@ -1,0 +1,85 @@
+Unreal 2
+PC - Personal Computer
+
+Cheats
+Cheater 2005
+13.10.2005
+
+During gameplay press ~ (german ^) to open the game console give in
+   one of the following commands
+   
+   
+   Cheat commands
+   ~~~~~~~~~~~~~~
+   
+   BeMyMonkey()            - Toggle Cheat Mode
+   God()                   - Toggle God Mode
+   Invisible()             - Toggle Invisibility
+   Loaded()                - Get all weapons
+   AllAmmo()               - Give player ammo for all weapons
+   GodEx(X)                - Toggle God Mode for the given actor
+   Phoenix()               - Toggle Phoenix Powersuit
+   FearMe()                - Enemy now fears you
+   Ghost()                 - Ghost Mode
+   Fly()                   - Fly Mode
+   Amphibious()            - Underwater mode
+   Walk()                  - Normal, walking mode
+   SloMo(#)                - Game Slomotion
+   SetJumpZ(#)             - Set jump height
+   ToggleInfiniteAmmo()    - Toggle Infinite Ammo
+   ToggleReloads()         - Toggle Reloads
+   ToggleInvisibility()    - Toggle Invisibility
+   Teleport()              - Teleport to the spot the player is looking at
+   NextLevel()             - Skip to next level
+   Open(x)                 - Open Map x
+   ToggleSpeed()           - Double speed
+   SetSpeed(#)             - Set player speed
+   ChangeSize(#)           - Change Players Size
+   TogglePawnInvulnerability(P) - Toggle god mode on given pawn
+   Goodies(#, #)           - Summon an array of goodies
+   Sum(x)                  - Summon Item X
+   Actors()                - Full actor list
+   GotoActor(Name)         - Change Location to the given Actor
+   Damage(#, Target)       - Damage given target by the specified amount
+   DamageNPCs(#)           - Damage NPC's by the given amount
+   SetHealth(#, Target)    - Set health to the given amount for target
+   SetMyHealth(#)          - Set player health to the given amount
+   HurtMe(#)               - Hurt the player by the specified amount
+   ManCannon(#)            - Gives all visible pawns damage
+   ToggleServos()          - Toggle Animation Servos
+   ShowTeams()             - Show player teams
+   Difficulty(#)           - Change game difficulty
+   CheatView(x)            - See what actor x's view is
+   ViewSelf()              - Target Camera on player
+   ToggleTimeDemo()        - Enable time demo
+   ToggleScoreBoard()      - Toggle Score board
+   EnableFreeOrders(0/1)   - Toggle Free Orders
+   BehindView()            - Toggle Behind View
+   SetParticleDensity(#)   - Set Particle Density
+   ToggleImpacts()         - Toggle Impacts
+   SetWeaponTick(0/1)      - Toggle Weapon tick code
+   SetWeaponFire(0/1)      - Toggle Weapon firing
+   ToggleShowAll()         - Show all hidden actors
+   ToggleShowKPs()         - Show all keypoints
+   ToggleShowNPs()         - Show all nagivation points
+   ToggleRMode()           - Toggle RMode
+   SetEyeHeigth()          - Set player eye height
+   KillActor(x)            - Kill actor X
+   KillHitActor()          - Kill actor under crosshair
+   KillHitNPC()            - Kill NPC under crosshair
+   KillActiveNPCS()        - Kill all active NPCS
+   KillDormantnPCS()       - Kill all dormant NPCS
+   GibAllNPCS()            - Gib all NPCs
+   GibHitNPC()             - Gib the NPC under the crosshair
+   PO()                    - Toggle players only
+   ToggleFreezeView()      - Toggle Freeze View
+   ToggleHUD()             - Toggle HUD
+   SetCameraDist(#)        - Set camera distance
+   FreeCamera(0/1)         - Toggle free camera movement
+   SetFlash(#)             -
+   SetFogR(#)              -
+   SetFogG(#)              -
+   SetFogB(#)              -
+   ShowViewLine()          - 
+   SetFOV(#)               - 
+   ToggleFOV(#)            -

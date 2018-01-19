@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{42BBEC5F-C009-4CDB-B244-F4474E7C450B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Cheater_2005.My.MyApplication</StartupObject>
+    <RootNamespace>Cheater_2005</RootNamespace>
+    <AssemblyName>Cheater 2005</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <ApplicationIcon>cheat.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Cheater 2005.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Cheater 2005.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="RTBExVB, Version=1.0.1902.37415, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Tipps\VS05\RichTextBoxEx-VB\RTBExVB\bin\RTBExVB.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.XML" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="Microsoft.VisualBasic.Compatibility" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAbout.Designer.vb">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConvert.Designer.vb">
+      <DependentUpon>frmConvert.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConvert.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDataUpdater05.designer.vb">
+      <DependentUpon>frmDataUpdater05.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDataUpdater05.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDateiExplorer.Designer.vb">
+      <DependentUpon>frmDateiExplorer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDateiExplorer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEdit.Designer.vb">
+      <DependentUpon>frmEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNeuerCheat.Designer.vb">
+      <DependentUpon>frmNeuerCheat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNeuerCheat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewFIle.Designer.vb">
+      <DependentUpon>frmNewFIle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewFIle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplash.Designer.vb">
+      <DependentUpon>frmSplash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStart.Designer.vb">
+      <DependentUpon>frmStart.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSuche.Designer.vb">
+      <DependentUpon>frmSuche.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSuche.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTutNew.Designer.vb">
+      <DependentUpon>frmTutNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTutNew.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="My Project\ApplicationEvents.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAbout.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConvert.resx">
+      <DependentUpon>frmConvert.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDataUpdater05.resx">
+      <DependentUpon>frmDataUpdater05.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDateiExplorer.resx">
+      <DependentUpon>frmDateiExplorer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEdit.resx">
+      <DependentUpon>frmEdit.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNeuerCheat.resx">
+      <DependentUpon>frmNeuerCheat.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewFIle.resx">
+      <DependentUpon>frmNewFIle.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplash.resx">
+      <DependentUpon>frmSplash.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStart.resx">
+      <DependentUpon>frmStart.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSuche.resx">
+      <DependentUpon>frmSuche.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTutNew.resx">
+      <DependentUpon>frmTutNew.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cheater 2005 Logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cheat.ico" />
+    <None Include="Resources\Icons 16-8 %2843%29.ico" />
+    <None Include="Resources\Modschmal.ico" />
+    <None Include="Resources\Mod2.ico" />
+    <None Include="Resources\Mod1.ico" />
+    <None Include="Resources\Mod.ico" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Resources\Kalender 32x32 XP.ico" />
+    <None Include="Resources\x.ico" />
+    <None Include="Resources\Icons 16-8 %28239%29.ico" />
+    <None Include="Resources\Icons 16-8 %28113%29.ico" />
+    <None Include="Resources\Icons 16-8 %28158%29.ico" />
+    <None Include="Resources\Icons 16-8 %28152%29.ico" />
+    <None Include="app.config" />
+    <None Include="Resources\Icons 16-8 %2854%29.ico" />
+    <None Include="Resources\Icons 16-8 %283%29.ico" />
+    <None Include="Resources\Icons 16-8 %28106%29.ico" />
+    <None Include="Resources\Icons 16-8 %2884%29.ico" />
+    <None Include="Resources\cheater.ico" />
+    <None Include="Resources\Icons 16-8 %2889%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Scripting">
+      <Guid>{420B2830-E718-11CF-893D-00A0C9054228}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+</Project>

@@ -1,0 +1,174 @@
+Halflife 2
+PC - Personal Computer
+
+Cheats
+X007XXXX
+10.08.2006
+
+Konsole öffnen:
+Geht unter x:\valve\Steam\SteamApps\Nickname\half-life 2\hl2\cfg\
+config.CFG öffnet ihr da muss stehen bind "'" "toggleconsole" - ihr macht daraus bind "F11" "toggleconsole". Startet das Spiel. Im Spiel F11 Drücken und schon könnt ihr die Konsole öffnen.
+
+Superphycannone:
+Gebt ein:   sv_cheats 1 um Cheats zu aktiviren!
+Schrit 1: Gebt in die Konsole map d3_citadel_04 ein
+Schrit 2: Gebt wieder Changelevel d1_trainstation_01 ein
+Schrit 3: Gebt nun give weapon_physcannon ein
+Und schon habt ihr die Superphycannone
+
+Cheats:
+SV_UNLOCKEDCHAPTERS 15 alle Levels freischalten 
+GOD unverwundbar 
+IMPULSE 101 alle Waffen 
+IMPULSE 82 Jeep erzeugen 
+IMPULSE 83 Schnellboot erzeugen 
+GIVE xyz Gegenstand xyz erhalten (siehe Liste) 
+NOCLIP durch Wände schweben 
+NOTARGET Gegner ignorieren Spieler 
+
+BUDDHA Lebensenergie reduzieren 
+HURTME x Lebensenergie um x reduzieren 
+
+MAPS * alle Levels anzeigen 
+MAP xyz in Level xyz springen (siehe Liste) 
+
+CL_DRAWHUD 1 Anzeigen (HUD) einschalten 
+CL_SHOWFPS 1 Frame-Rate anzeigen 
+SCREENSHOT Screenshot erzeugen 
+
+Levelnamen für MAP: 
+Endstation City 17 (Point Insertion) 
+D1_TRAINSTATION_01 
+D1_TRAINSTATION_02 
+D1_TRAINSTATION_03 
+D1_TRAINSTATION_04 
+
+"Ein Denkwürdiger Tag" ("A Red Letter Day") 
+D1_TRAINSTATION_05 
+D1_TRAINSTATION_06 
+
+Kanal-Route (Route Kanal) 
+D1_CANALS_01 
+D1_CANALS_01A 
+D1_CANALS_02 
+D1_CANALS_03 
+D1_CANALS_05 
+
+Wassergefahr (Water Hazard) 
+D1_CANALS_06 
+D1_CANALS_07 
+D1_CANALS_08 
+D1_CANALS_09 
+D1_CANALS_10 
+D1_CANALS_11 
+D1_CANALS_12 
+D1_CANALS_13 
+
+Black Mesa East 
+D1_ELI_01 
+D1_ELI_02 
+
+Ravenholm ("We Don't Go To Ravenholm ") 
+D1_TOWN_01 
+D1_TOWN_01A 
+D1_TOWN_02 
+D1_TOWN_02A 
+D1_TOWN_03 
+D1_TOWN_04 
+D1_TOWN_05 
+
+Highway 17 
+D2_COAST_01 
+D2_COAST_03 
+D2_COAST_04 
+D2_COAST_05 
+D2_COAST_07 
+D2_COAST_08 
+
+Sandlöcher (Sandtraps) 
+D2_COAST_09 
+D2_COAST_10 
+D2_COAST_11 
+D2_COAST_12 
+D2_PRISON_01 
+
+Nova-Prospekt 
+D2_PRISON_02 
+D2_PRISON_03 
+D2_PRISON_04 
+D2_PRISON_05 
+
+Verflechtung (Entanglement) 
+D2_PRISON_06 
+D2_PRISON_07 
+D2_PRISON_08 
+D3_C17_01 
+
+Antibürger Eins (Anticitizen One) 
+D3_C17_02 
+D3_C17_03 
+D3_C17_04 
+D3_C17_05 
+D3_C17_06A 
+D3_C17_06B 
+D3_C17_07 
+D3_C17_08 
+
+"Folgt Freeman!" ("Follow Freeman!") 
+D3_C17_09 
+D3_C17_10A 
+D3_C17_10B 
+D3_C17_11 
+D3_C17_12 
+D3_C17_12B 
+D3_C17_13 
+
+Unsere Wohltäter (Our Benefactors) 
+D3_Citadel_01 
+D3_Citadel_02 
+D3_Citadel_03 
+D3_Citadel_04 
+D3_Citadel_05 
+
+Dunkle Energie (Dark Energy) 
+D3_BREEN_01 
+
+Abspann (Credits) 
+CREDITS 
+
+Hintergrund-Karten 
+BACKGROUND01 
+BACKGROUND02 
+BACKGROUND03 
+BACKGROUND04 
+BACKGROUND05 
+BACKGROUND06 
+BACKGROUND07 
+
+Gegenstände für den GIVE-Befehl: 
+Waffen-Namen: 
+WEAPON_CROWBAR Brechstange 
+WEAPON_PHYSCANNON Nullpunkt-Energiegewehr (Gravitron) 
+WEAPON_PISTOL 9-MM-Pistole 
+WEAPON_357 Revolver 357 Magnum 
+WEAPON_SMG1 SMG (Sub-Maschinengewehr) 
+WEAPON_AR2 Impulsgewehr 
+WEAPON_SHOTGUN Schrotflinte 
+WEAPON_CROSSBOW Armbrust 
+WEAPON_RPG RPG (Rocket Propelled Grenade) 
+WEAPON_FRAG Granate 
+WEAPON_BUGBAIT Pheropod (Köder) 
+
+Munition: 
+ITEM_BOX_ROUNDS 
+ITEM_BOX_MROUNDS 
+ITEM_BOX_SNIPER_ROUNDS 
+ITEM_BOX_BUCKSHOT 
+ITEM_ML_GRENADE 
+ITEM_AR2_GRENADE 
+
+Sonstiges: 
+ITEM_HEALTHKIT großes Medikit 
+ITEM_HEALTHVIAL kleines Medikit 
+ITEM_SUIT Schutzanzug 
+ITEM_BATTERY Anzugsbatterie

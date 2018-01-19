@@ -1,0 +1,367 @@
+Quake 4
+PC - Personal Computer
+
+Cheats
+Ronald
+10.08.2006
+
+Drückt im Spiel Strg + Alt + ~ und gebt dann folgende Cheats ein:
+
+God mode - god
+Full weapons and ammunition - give all
+Full ammunition for current weapons - give ammo
+Armor to 125 - give armor
+Classic 1995 version - give doom95
+Health to 100 - give health
+All keys - give keys
+BFG - give weapon_bfg
+Chainsaw - give weapon_chainsaw
+Machine gun - give weapon_machinegun
+Plasmagun - give weapon_plasmagun
+Rocket launcher - give weapon_rocketlauncher
+Shotgun - give weapon_shotgun
+Spawn indicated item - give [item name]
+Play indicated map - map [map name]
+Load a map - map
+Show AAS stats - aasStats
+Adds debug arrow - addarrow
+Core to game chat lines - addChatLine
+Add debug line - addline
+Scale contact friction - af_contactFrictionScale
+Force the given friction value - af_forceFriction
+Name of the body to highlight - af_highlightBody
+Name of the constraint to highlight - af_highlightConstraint
+Scale the joint friction - af_jointFrictionScale
+Maximum angular velocity - af_maxAngularVelocity:
+Maximum linear velocity - af_maxLinearVelocity
+Show bodies - af_showBodies
+Show body names - af_showBodyNames
+Show constraint names - af_showConstraintNames
+Show constraints - af_showConstraints
+Show the inertia tensor of each body - af_showInertia
+Show joint limits - af_showLimits
+Show mass of each body - af_showMass
+Show primary constraints only - af_showPrimaryOnly
+Show articulated figure CPU usage - af_showTimings
+Show tree-like structures - af_showTrees
+Show velocity of each body - af_showVelocity
+Skip friction - af_skipFriction
+Skip joint limits - af_skipLimits
+Skip self collision detection - af_skipSelfCollision
+Scale time - af_timeScale
+Use impulse-based contact friction - af_useImpulseFriction
+Use impulse-based joint friction - af_useJointImpulseFriction
+Use constraint matrix symmetry - af_useSymmetry
+Enable blocked fail safe handling - ai_blockedFailSafe
+Draw trajectory tests for monsters - ai_debugTrajectory
+Draw attack cones for monsters - ai_showCombatNodes
+Write .AVI for a command demo - aviCmdDemo
+Save demo in .AVI format - avidemo
+Write .AVI for a demo - aviDemo
+Write .AVI for the current game - aviGame
+Game benchmark - benchmark
+Benchmark - benchmark
+Bind command to a key - bind
+Blink a debug line - blinkline
+Center view - centerview
+Clear the console - clear
+Clear all lights - clearLights
+Drop current weapon - clientDropWeapon
+In-game GUI message mode - clientMessageMode
+Voice chats - clientVoiceChat
+Team voice chats - clientVoiceChatTeam
+Cull back facing polygons - cm_backFaceCul
+Debug collision detection - cm_debugCollision
+Draw filled polygons - cm_drawFilled
+Draw internal edges green - cm_drawInternal
+Collision mask - cm_drawMask
+Draw polygon and edge normals - cm_drawNormals
+Show collision model info - collisionModelInfo
+Use ~ to toggle console - com_allowConsole
+Sample input from the async thread - com_asyncInput
+Mix sound from the async thread - com_asyncSound
+Compress saved games - com_compressSaveGame
+Record journal - com_journal 1
+Play back journal - com_journal 2
+Make a build - com_makingBuild 1
+Marker for memory stats - com_memoryMarker
+Purge everything between level loads - com_purgeAll
+Show async network stats - com_showAsyncStats
+Show frame rate - com_showFPS
+Show framerate - com_showfps 1
+Show total and per frame memory usage - com_showMemoryUsage
+show sound decoders - com_showSoundDecoders
+Skip the renderer completely - com_skipRenderer
+Show engine timings - com_speeds
+Compress a demo file - compressDemo
+Speed at which the console moves - con_speed [number]
+Dump the console text to a file - conDump
+Connect to a server - connect
+Crashes game - crash
+Crash game - crash
+Unknown - cvar_restart
+Restart the cvar system - cvar_restart
+Apply damage to an entity - damage
+Launch script debugger - debugger
+Print parses - decl_show 1
+Print parses and references developer - decl_show 2
+Delete selected entity - deleteSelected
+Hold [Enter] to zoom view - demoshot
+Save screenshot for a demo - demoShot
+Load a map in developer mode - devmap
+Open directory - dir
+List a folder - dir
+List a folder with sub-folders - dirtree
+Disassembles script - disasmScript
+Disables connection for current multi-player game - disconnect
+Disconnect from a game - disconnect
+Compile map - dmap
+Skip to last level - doomhell
+Print indicated text - echo [text]
+Launch in-game Articulated Figure Editor - editAFs
+Launch in-game Declaration Editor - editDecls
+Launch GUI Editor - editGUIs
+Change lighting - editlight
+Launch in-game Light Editor - editLights
+Open the in-game editor - editor
+Launch level editor Radiant - editor
+Launch in-game Particle Editor - editParticles
+Launch in-game PDA Editor - editPDAs
+Launch in-game Script Editor - editScripts
+Change sounds in editor area - editsounds
+Launch in-game Sound Editor - editSounds
+Take an environment shot - envshot
+Cause an error - error
+Execute a config file - exec
+Exit game - exit
+Exit command demo - exitCmdDemo
+Export models - exportmodels
+Finish the build process - finishBuild
+Freeze everything on screen - freeze
+Freeze game for indicated number of seconds - freeze [number]
+Armor takes this percentage of damage - g_armorProtection [number]
+Armor takes this percentage of damage in MP - g_armorProtectionMP [number]
+Maintain even teams - g_balanceTDM
+Show blood splats, sprays, and gibs - g_bloodEffects
+Pregame countdown in seconds - g_countDown [number]
+Scale final damage on player by this factor - g_damageScale [number]
+Check for models with bounds over 2048 - g_debugBounds
+Show double vision when taking damage - g_doubleVision
+Toggle disable buffer file writing for save games - g_flushSave [0 or 1]
+Display timing information for each game frame - g_frametime
+Score review time in seconds at end game - g_gameReviewPause
+Set how much health to take in nightmare mode - g_healthTakeAmt [number]
+Set how low can health get taken in nightmare mode - g_healthTakeLimit [number]
+Set how often to take health in nightmare mode - g_healthTakeTime [number]
+Control the weapon sway in MP - g_mpWeaponAngleScale [number]
+Show muzzle flashes - g_muzzleFlash [0 or 1]
+If nightmare mode is allowed - g_nightmare [0 or 1]
+Game password - g_password [password>
+Show dynamic lights on projectiles - g_projectileLights
+Enable ejected shells from weapon - g_showBrass
+Enable shadow of player model - g_showPlayerShadow
+Enable display of player hit percentage -g_showProjectilePct
+Toggle hit % to HUD - g_showprojectilepct 1
+Skip damage and other view effects - g_skipViewEffects
+Number of frames to blend - g_testModelBlend
+Test model rotation speed - g_testModelRotate
+Name of material to draw over screen - g_testPostProcess
+Show available memory - game_memory
+Display game class info - game_memory
+Cause a game error - gameError
+Kick player from multi-player game - gameKick [name]
+Kick indicated player name - gameKick [name]
+Print current view position - getviewpos
+Display graphics card details - gfxinfo
+Show graphics info - gfxInfo
+Gametype filter - gui_filter_gameType
+Password filter - gui_filter_password
+Players filter - gui_filter_players
+Send heartbeat to master servers - Heartbeat
+Show help - help
+Hitch the game - hitch
+Show IK debug lines - ik_debug
+Enable IK - ik_enable
+See texture MIP usage - image_colorMipLevels
+Control texture downsampling - image_downSize
+Control normal map downsampling - image_downSizeBump
+Control normal map downsample limit - image_downSizeBumpLimit
+Control diffuse map downsample limit - image_downSizeLimit
+Control specular downsampling - image_downSizeSpecular
+Control specular downsampled limit - image_downSizeSpecularLimit
+Change texture filtering on mipmapped images - image_filter
+Change lod bias on mipmapped images - image_lodbias
+Use .DDS files if present - image_usePrecompressedTextures
+Write .DDS files if necessary - image_writePrecompressedTextures
+Write .TGAs of the non normal maps for debugging - image_writeTGA
+Always run (reverse _speed button) in multi-player mode - in_alwaysRun
+Angle change scale when holding _speed button - in_anglespeedkey
+Look around with mouse (reverse _mlook button) - in_freeLook
+Enable mouse input - in_mouse
+Restart the input system - in_restart
+Yaw change speed when holding _left or _right button - in_yawspeed
+Keep last test model in the game - keepTestModel
+Kick client by connection number - kick
+Kill current target; suicide if no one is targeted - kill
+Kill the player - kill
+Kill all monsters in current level - killmonsters
+Remove all monsters - killMonsters
+Kill all moving enemies - killmoveables
+Remove all moveables - killMoveables
+Kill all non-moving enemies - killragdolls
+Remove all ragdolls - killRagdolls
+Scan LAN for servers - LANScan
+Show LCP solver failures - lcp_showFailures
+List active game entities - listActiveEntities
+List articulated figures - listAF
+List all animations - listAnims
+List audios - listAudios
+List key bindings - listBinds
+List game classes - listClasses
+List commands - listCmds
+List collision models - listCollisionModels
+List cvars - listCvars
+List all decls - listDecls
+List all keys used by dictionaries - listDictKeys
+List all values used by dictionaries - listDictValues
+List emails - listEmails
+List game entities - listEntities
+Lists indicated def file settings - listentitydefs
+List entity defs - listEntityDefs
+List FX systems - listFX
+List game commands - listGameCmds
+List GUIs - listGuis
+List decl text character frequencies - listHuffmanFrequencies
+List images - listImages
+Lists indicated def file settings - listlightdefs
+List all debug lines - listLines
+List materials - listMaterials
+List model defs - listModelDefs
+List all models - listModels
+List all video modes - listModes
+Lists images of monsters - listmonsters
+List monsters - listMonsters
+List particle systems - listParticles
+List PDAs - listPDAs
+List the entity defs - listRenderEntityDefs
+List renderer commands - listRendererCmds
+List the light defs - listRenderLightDefs
+List scanned servers - listServers
+List skins - listSkins
+List sound commands - listSoundCmds
+List active sound decoders - listSoundDecoders
+List all sounds - listSounds
+List sound shaders - listSoundShaders
+List the spawn args of an entity - listSpawnArgs
+List system commands - listSystemCmds
+List tables - listTables
+List script threads - listThreads
+List tool commands - listToolCmds
+List type info - listTypeInfo
+List vertex cache - listVertexCache
+List videos - listVideos
+Load a game - loadGame
+Localize GUIs - localizeGuis
+Localize maps - localizeMaps
+Mouse pitch scale - m_pitch
+Show mouse movement - m_showMouseRate
+Number of samples blended for mouse viewing - m_smooth
+Mouse strafe movement scale - m_strafeScale
+Number of samples blended for mouse moving - m_strafeSmooth
+Mouse yaw scale - m_yaw
+Make an ambient map - makeAmbientMap
+Process giant images - MakeMegaTexture
+Create memory dump - memoryDump
+Create a compressed memory dump - memoryDumpCompressed
+Modify shader parms on all lights - modulateLights
+Show next animation on test model - nextAnim
+Show next animation frame on test model - nextFrame
+Load next map on the server - nextMap
+No clipping - noclip
+Disable collision detection for the player - noclip
+Ignored by most enemies - notarget
+Disable player as a target - notarget
+Print tokenized string - parse
+List search paths - path
+Play back a command demo - playCmdDemo
+Play back a demo - playDemo
+Set the given model on the player - playerModel [model name]
+x/y size of player's bounding box - pm_bboxwidth
+Bob much faster when crouched - pm_crouchbob
+Speed the player can move while crouched - pm_crouchspeed [number]
+Height of player's view while crouched - pm_crouchviewheight [number]
+Height of player's bounding box while dead - pm_deadheight [number]
+Height of player's view while dead - pm_deadviewheight [number]
+Approximate height the player can jump - pm_jumpheight [number]
+Amount player's view can look down - pm_maxviewpitch [number]
+Speed the player can move while in noclip - pm_noclipspeed [number]
+Height of player's view while standing - pm_normalviewheight [number]
+Bob faster when running - pm_runbob
+Speed the player can move while running - pm_runspeed [number]
+Size of the spectator bounding box - pm_spectatebbox [number]
+Speed the player can move while spectating - pm_spectatespeed [number]
+Length of time player can run - pm_stamina [number]
+Third person view - pm_thirdPerson
+Toggle third person view - pm_thirdperson [0 or 1]
+Clip third person view into world space - pm_thirdPersonClip
+Enable third person view when player dies - pm_thirdPersonDeath
+Bob slowly when walking - pm_walkbob
+Player's walking speed - pm_walkspeed [number]
+Remove last created light - popLight
+Show previous animation on test model - prevAnim
+Show previous animation frame on test model - prevFrame
+Print an articulated figure - printAF
+Print an Audio - printAudio
+Print an email - printEmail
+Print an entity def - printEntityDef
+Print an FX system - printFX
+Print a material - printMaterial
+Print model info - printModel
+Print a model def - printModelDefs
+Print a particle system - printParticle
+Print a PDA - printPDA
+Print a skin - printSkin
+Print a sound shader - printSoundShader
+Print a table - printTable
+Print an Video - printVideo
+Prompt and set the CD Key - promptKey
+Exit game - quit
+Quit the game - quit
+Change gamma tables - r_brightness
+Set brightness level - r_brightness [number]
+arbfp1, fp30 - r_cgFragmentProfile
+arbvp1, vp20, vp30 - r_cgVertexProfile
+Custom screen height - r_customHeight [number]
+Custom screen width - r_customWidth [number]
+Perform depth test on debug lines - r_debugLineDepthTest
+Width of debug lines - r_debugLineWidth [number]
+Draw a filled polygon - r_debugPolygonFilled
+Change gamma tables - r_gamma
+Set gamma level - r_gamma [0-3]
+Fraction to smear across neighbors - r_hdr_bloomFraction
+Maximum light scale - r_hdr_exposure
+Monitor gamma power - r_hdr_gamma
+Random dither in monitor space - r_hdr_monitorDither
+Use a floating point rendering buffer - r_hdr_useFloats
+Ignore GL errors - r_ignoreGLErrors
+Ignore the fragment program extension - r_inhibitFragmentProgram
+Number of frames to emit GL logs - r_logFile
+Override all materials - r_materialOverride
+Draw only a specific level - r_megaTextureLevel
+Video mode number - r_mode
+Number of antialiasing samples - r_multiSamples
+Near Z clip plane distance - r_near
+Polygon offset parameter - r_offsetfactor
+Polygon offset parameter - r_offsetunits
+Scale factor for jitter offset - r_sb_jitterScale
+Do not draw any occluders - r_sb_noShadows
+Draw offscreen - r_sb_usePbuffer
+Enable shadows - r_shadows
+Report alloc/free counts - r_showAlloc
+Report sphere and box culling stats - r_showCull
+Draw the sil edges - r_showEdges
+Show light scissor rectangles - r_showLightScissors
+Display all the level images - r_showMegaTexture
+Draw colored blocks in each tile - r_showMegaTextureLabels
+Print frame memory utilization - r_showMemory
+Draw wireframe normals - r_showNormals  

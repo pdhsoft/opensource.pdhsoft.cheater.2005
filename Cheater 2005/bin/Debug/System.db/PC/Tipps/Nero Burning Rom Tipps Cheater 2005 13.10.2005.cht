@@ -1,0 +1,36 @@
+Nero Burning Rom
+PC - Personal Computer
+
+Tipps
+Cheater 2005
+13.10.2005
+
+SafeDisc 1:1 CD-Copy Instructions
+NERO BURNING ROM
+
+Start Nero - Burning Rom (4.0.0.5 or higher). 
+From the action-bar choose File and select CD-Copy. 
+Use the following settings (all other settings should be left default): 
+ Image Tab 
+Image file Enter a Image filename 
+Copy options Tab 
+On the fly DeSelect 
+Drive with source CD... Select Source CD-Reader 
+Read Speed 1x (150 kB/s) 
+Read options Tab 
+Number of retries before read error 1 
+Read media catalog number and ISCR  Select 
+Ignore illegal TOC Type Select 
+Unreadable data Continue copying 
+Data mode 1 - Force raw reading
+- If it can be changed or it is not ghosted DeSelect 
+Data mode 2 - Force raw reading DeSelect 
+Read audio data with sub channel Select 
+Use Jitter correction Select (for older Readers) 
+Ignore read errors Select 
+Burn Tab 
+Ignore read errors 1x (150 KB/s) 
+  
+ 
+
+When ready click Copy CD to start the copy process. 

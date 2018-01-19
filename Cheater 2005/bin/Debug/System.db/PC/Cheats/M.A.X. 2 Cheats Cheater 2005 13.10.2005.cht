@@ -1,0 +1,28 @@
+M.A.X. 2
+PC - Personal Computer
+
+Cheats
+Cheater 2005
+13.10.2005
+
+Die folgenden Cheatcodes können während des laufenden Spiels eingegeben werden. Vergesen Sie nicht die eckigen Klammern! 
+
+[maxspy] 
+Alle Gegner werden sichtbar (sogar Tiere) 
+[maxstorage] 
+Volle Ressourcen 
+[maxsurvey] 
+Sämtliche Gebäude auf der Karte 
+[maxsuper] 
+Aktivierte Einheit wird superstark 
+ 
+Wer in dem Strategiespiel "M.A.X. 2" die Feinde noch einfacher besiegen will, sollte im laufenden Spiel mal die folgenden Codes eingeben. Wichtig: Die eckigen Klammern nicht vergessen. 
+
+[maxspy] Sie sehen alle Feinde (auch Tiere) 
+[maxstorage] Sie erhalten maximale Vorräte an Rohstoffen 
+[maxsurvey] Alle Lager werden sichtbar 
+[maxsuper] Die ausgewählte Einheit bekommt die höchsten Werte 
+
+Editieren Sie die Datei "Max2.ini" und und benutzen Sie folgende Einstellungen: 
+
+current_campaign_1_mission=1 

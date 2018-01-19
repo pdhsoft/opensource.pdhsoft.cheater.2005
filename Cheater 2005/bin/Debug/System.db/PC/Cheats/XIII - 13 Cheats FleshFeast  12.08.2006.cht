@@ -1,0 +1,22 @@
+XIII - 13
+PC - Personal Computer
+
+Cheats
+FleshFeast 
+12.08.2006
+
+Die Datei "DefUser.ini" mit einem Editor öffnen und folgende Zeile hinzufügen:
+
+F2=Console 
+
+Das Spiel mit den Kommandozeilenparamtern
+
+-console -bemymonkey
+
+starten. F2 ist nun standardmässig die Konsole (kleines Eingabefenster wo nix drinsteht unten 
+am Bildrand, kaum zu sehen) - diese öffnen. Nun folgendes eintippen und danach Enter drücken:
+
+healme 100 = 100er Medipack
+maxammo = Munition
+Suicide = Selbstmord
+Quit = Spiel beenden  

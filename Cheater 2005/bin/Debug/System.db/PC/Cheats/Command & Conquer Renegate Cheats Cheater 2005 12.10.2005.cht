@@ -1,0 +1,216 @@
+Command & Conquer Renegate
+PC - Personal Computer
+
+Cheats
+Cheater 2005
+12.10.2005
+
+Es gibt, wenn man für NOD kämpft, eine einfache Taktik, die Basis der GDI zu
+ vernichten: Ein, zwei Spieler kaufen sich einen Jagdpanzer/Flame-Tank (NOD) und
+ fahren so schnell wie möglich direkt auf den Verteidigungs-Turm/Advanced-Guard-
+ Tower (GDI) zu bis man dagegen stößt. So kann der Turm die Panzer/Tanks nicht
+ erreichen und wird binnen Sekunden zerstört. Ist das geschehen, kann man mit
+ einer Schwarzen Hand/Black Hand (NOD)(die, die sich unsichtbar machen können)
+ einen Atom-Zielsucher/Nuclear-Bacon (NOD) auf das Podest/Pedestal in der
+ Kaserne/Barracks(GDI) legen. Geht die Bombe hoch, hat NOD das Spiel gewonnen.
+ (Nicht gerade billig die Aktion...)
+
+ ---
+
+ Und falls Ihr alle Karten im Skirmish (Multiplayer Practice) Modus spielen
+ wollt, geht einfach in das Renegade/Data Verzeichnis und öffnet die
+ "svrcfg_skirmish.ini" Datei. Hier könnt ihr folgendes ändern:
+
+ TimeLimitMinutes=0 /setzt Spielzeit auf unendlich
+
+ RadarMode=2 /Radar-Modus, 0=aus, 1=zeigt Freunde an, 2=zeigt Feinde an
+
+ SpawnWeapons=yes /erzeugt Waffen im Spielfeld
+
+ IsFriendlyFirePermitted=yes /eure Bots können gekillt werden
+
+ StartingCredits=99999 / Startgeld erhöhen
+
+ MapName00=C&C_Under.mix
+ MapName01=C&C_Canyon.mix
+ MapName02=C&C_City.mix
+ MapName03=C&C_Complex.mix
+ MapName04=C&C_Field.mix
+ MapName05=C&C_Hourglass.mix
+ MapName06=C&C_Islands.mix
+ MapName07=C&C_Mesa.mix
+ MapName08=C&C_Under.mix
+ MapName09=C&C_Volcano.mix
+
+ Einfach die obrigen MapName Befehle eingeben und ihr könnt alle
+ Multiplayerkarten als Skirmish spielen.
+
+ (Ihr startet in der alten C&C_Under Karte, aber nachdem ihr gewinnt oder eure
+ Basis mit Ion Strikes zerbombt habt wechselt ihr zu "MapName01". Ändert also
+ den Eintrag "MapName01=C&C_Canyon.mix" zu "MapName01=C&C_Volcano.mix" wenn Ihr
+ sofort nach der Ersten Karte "Volcano" spielen wollt.)
+
+ "MapName00=C&C_Under" muss in der "svrcfg_skirmish.ini" zu finden sein, oder es
+ wird keine neue Karte geladen.
+
+ Sobald ich herausfinde, wie man direkt eine neue Karte startet, lasse ich es
+ euch wissen.
+
+ Ihr könnt übrigens auch Single Player Missionen als Skirmish starten (mit
+ manchmal recht seltsamen Folgen). Ihr findet die Levelnamen im Data Verzeichnis
+ (M01.mix oder 00Tutorial.mix zu Beispiel).
+
+ ---
+
+ Man kann in dem Spiel ganz einfach Kamikaze-Einheiten bauen:
+
+ Zutaten:
+ Beliebiger Soldat
+ Erweiterter Ingenieur mit C4-Minen
+
+ Zubereitung:
+ Der Ingenieur klebt seine ganzen C4-Minen auf den Soldaten, der läuft dann zum
+ nächsten Gegner und... BUMM! Leider stirbt der Soldat dabei.
+
+ ---
+
+ Tipps:
+
+ 1.Schalte immer zuerst die Offiziere aus (am besten mit Tiberium-Waffen), um zu
+ verhindern, dass diese erneute Verstärkung rufen. Bei einem Gefecht solltest Du
+ dich immer hinter z.B. einer Mauer stellen, sobald sich dann ein Gegner nähert,
+ gleich aus dem Versteck heraus laufen und abschießen.
+
+ 2.Panzer besiegst Du am Besten mit Raketenwerfern oder auch mit Flammenwerfern.
+
+ ---
+
+ Zuerst drückt [F8], wenn das Command-Menü aufgerufen wurde gebt Ihr folgendes
+ Kommando ein:
+
+ extras fnkqrrm
+
+ Wenn Ihr alles richtig gemacht habt, müsste links oben am Bildschirmrand
+ "EXTRAS enabled" erscheinen.  Wenn Ihr dann an ein Kaufterminal geht und die
+ Aktionstaste(Standard E) drückt gelangt Ihr wie immer ins (KT), wenn Ihr nun
+ Alt (links) gedrückt haltet und entweder auf Figuren oder Fahrzeuge klickt,
+ könnt Ihr z.B. Locke spielen oder zivile Pkws bauen. (Funktioniert bei GDI und
+ NOD nur das sie andere Sachen bauen können)
+
+ Dieser Cheat funktioniert erst ab Version 1.005!!!!
+
+ ---
+
+ Setzt man eine M.S.E an den Rand von unerforschtem Gebiet und aktiviert sie,
+ sieht man eventuell stationierte Gegnereinheiten im Aufklärungsbereich der
+ Einheit.
+
+ ---
+
+ Anstatt des Multiplayer-Cheats Extras fnkqrrm den Cheat:
+
+ extras quantifigon
+
+ eingeben. Dann am KT (Kaufterminal) [Alt] gedrückt halten und dann auf Personen
+ oder Fahrzeuge klicken. Dann kann man z.B. bei NOD als Kane in die Schlacht
+ gehen oder bei GDI einen zivilen Pickup kaufen. Falls man z.B. einen Orca bauen
+ könnte, macht es besser nicht, denn das Spiel wird dann nicht mehr reagieren
+ oder ganz abbrechen.
+
+ ---
+
+ Wir haben bei einem Clanmatch etwas herausbekommen bei Field, Under und bei
+ Hourglas kann man wenn man GDI ist Rückwärts zum Obelisk Rennen ohne dass er
+ schießt
+
+ Hourglas:
+ Geht durch den Tunnel in der Mitte und rennt rückwärts ohne links und rechts zu
+ lenken zum Obelisk
+
+ Field:
+ Das gleiche spiel nur man muss von der Seite der Raffinerie Kommen
+
+ Under:
+ In dem Tunnelgang neben dem Obelisk einfach rückwärts rennen zum Obelisk
+
+ Kleiner Tipp:
+ Wenn dies mehrere Spieler im Team machen hat man den Obelisk von Anfang an
+ nicht mehr im Weg stehen!!! ;-)
+
+ ---
+
+ Im Multiplayer(-Training) auf der 1. Karte gibt es einen Trick, wie man den
+ NOD- Obelisken zerstören kann, denn wenn man (auch mit Mammut-Panzer) auch nur
+ um die Ecke (Tiberiumfeld zu Basis; vorn herum) kommt, schießt der Obelisk und
+ zerstört alles.
+
+ Jetzt zu meinem Trick: Man macht sich zu einem Ingenieur (denn dieser hat viel
+ C4) und kauft einen Wüstenjäger. Jetzt fährt man damit über das Tiberiumfeld
+ Richtung NOD-Basis, ganz eng an der linken Wand, so dass man den Obelisken erst
+ sehr spät sieht und er einen nicht erfasst. Doch sobald man um die Ecke ist,
+ hält man voll auf den Obelisken zu. Bald ist der Wüstenjäger zerstört, aber
+ lauft trotzdem weiter und lasst euch nicht von den Türmen oder den Einheiten
+ stören. Hintenrum in den Obelisken (das schafft man schon)...und schon seid ihr
+ sicher. Jetzt C4 anbringen (und töten lassen, so ist man wieder in der Basis).
+ Nach einiger Zeit Kommt die Meldung "Obelisk angegriffen". Entweder er ist
+ jetzt ganz hinüber, oder ihr müsst es noch einmal machen, ist aber immer noch
+ billiger als abgeknallt zu werden, die Geschütztürme sind jetzt nämlich kein
+ Problem mehr.
+
+ ---
+
+ Wenn man im Multiplayertraining bei Nod ist muss man einfach seine Eigenen
+ Gebäude zerstören ( zuerst den Obelisken und die beiden Geschütztürme) danach
+ nur noch eins übrig lasen und das Team wechseln. Jetzt musst du nur noch mit
+ einer Ionen-Kanone oder Nuklear-Zielsucher das letzte Gebäude zerstören und was
+ passiert? - Du hast gewonnen, auch wenn das unfair ist, macht es irgend wie
+ Spaß. Man muss nur vorher einstellen, dass man seine eigenen Läute abknallen
+ kann.
+
+ ---
+
+ Im 2.Level wo man die Gefangenen aus den Gefängnis befreien soll muss man auch
+ mal 2 Kanonentürme zerstören. Bitte die Türme nicht zerstören weil da läuft ein
+ Ingenieur rum der die repariert und wenn man ihn tötet dann kommt kurze Zeit
+ später ein Nachschubheli der einen neuen abwirft und neben den Typen kommen
+ auch die Waffen runter, dann Waffen einsammeln Ingenieur töten und es kommt
+ wieder ein neuer mit Waffen. Und das geht sooft wie man will. Getestet mit
+ Version 1.002 müsste aber auch mit allen funktionieren.
+
+ ---
+
+ Also wenn Ihr auf der Map Under zockt könnt Ihr, wenn Ihr GDI seid, den
+ Nodtunnel entlang bis unten zum Kraftwerk laufen. Ich hab es immer mit Havoc
+ gemacht und einer Ionenkanone, lauft so schnell wie möglich hinter dem Stein
+ und duckt euch ein paar Sekunden, dann lauft Ihr zur Mauer so schnell wie
+ möglich weiter und duckt euch da und bleibt geduckt. Also wenn ihr es bis dort
+ geschafft habt, dann holt den Zielsucher raus und stellt ihn am Ende (kurz vorm
+ Kraftwerk) hin und lauft genau den weg so schnell zurück. Und voila das
+ Kraftwerk ist hinüber und der Rest ist eine Leichtigkeit.
+
+ Es kann sein, dass man auf dem Hinweg vom Obi einmal erwischt wird. Es macht
+ aber nichts, da man dann trotzdem noch 40 Lebenspunkte hat und es locker
+ durchziehen kann.
+
+ ---
+
+ Wie wechselt das Game die einzelnen Maps im Multiplayer Training? Ganz einfach
+ die "svrcfg_skirmish.ini"  abändern, dass ein Teil ungefähr so aussieht:
+
+ MapName00=C&C_Glacier_Flying.mix       }
+ MapName01=C&C_Glacier_Flying.mix       }
+ MapName02=C&C_Under.mix                }
+ MapName03=C&C_Walls.mix                }
+ MapName04=C&C_City.mix                 }
+ MapName05=C&C_Canyon.mix               }    sind die Maps,
+ MapName06=C&C_Hourglass.mix            }  = die man haben
+ MapName07=C&C_Mesa.mix                 }    will
+ MapName08=C&C_Islands.mix              }
+ MapName09=C&C_Complex.mix              }
+ IsFriendlyFirePermitted=yes            =   Friendly Fire
+ DoMapsLoop=yes                         =   Mapchange
+ IsTeamChangingAllowed=yes              =   Teamwechsel
+
+ Wenn ihr nicht so ganz durchgeblickt habt, dann guckt einfach mal in der
+ "svrcfg_cnc.ini" nach, denn da steht das schon so. Damit könnt ihr's
+ abgleichen.

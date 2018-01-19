@@ -1,0 +1,47 @@
+Monopoly Tycoon
+PC - Personal Computer
+
+Tipps
+Unbekannt
+12.08.2006
+
+Auktionen gewinnen: Speichert sobald ihr ein Gebot abgegeben habt und geht ins Hauptmenü. Ladet nun den Spielstand und ihr gewinnt immer.
+
+Geld:
+Versucht eure Straßen auf nur einen Block zu bauen. Pachtet dann diesen und ebensi WASSERWERK, TELEFONGESELLSCHAFT, ELEKTRIZITÄTSWERK, GASWERK, WESTBAHNHOF, SÜDBAHNHOF, HAUPTBAHNHOF und NORDBAHNHOF. Speichert am Anfang der Auktion ab, beendet die Partie und ladet sie wieder. Baut natürlich auch 3-5 Wohnhäuser und macht euch keine Sorgen falls ihr mal negative Zahlen haben solltet, denn das Geld kommt noch zum richtigen Zeitpunkt. Denn ihr bekommt dann jeden Morgen um 6.00 mindestens 6000Euro. 
+
+Datei Editieren: Man kann bei M.T. im Bonusszenario einiges einstellen, dazu müsst ihr die Datei "lub.lua" (scripts\SCENARIOBONUS) öffnen. Folgendes könnt ihr einstellen:
+
+People.Create(X, -1, -1, -1); 
+- Wieviele Menschen in der Stadt sind ( X=1-2000 )
+v.minarea = X; 
+- Wie groß die min. Fläche eines Hauses sein muss ( X=1x1=1, 6x5=30, ... )
+v.maxarea = X; 
+- Wie groß die max. Fläche eines Hauses sein darf ( X=1x1=1, 6x5=30, ... )
+v.minheight = X; 
+- Wieviele Stockwerke ein Haus min. haben muss ( X=1-999 )
+v.maxheight = X; 
+- Wieviele Stockwerke ein Haus max. haben darf ( X=1-999 )
+v.maxside = 7; 
+- Wie lang eine Hausseite max. sein darf ( X=1-8 )
+if Game.GetDifficulty() == DIFFICULTY_EASY then
+InitialValue.playermoney = X; 
+- Wieviel Geld ihr zum Start habt( X=1-100000000000 )
+
+Für das X setzt immer die Zahl ein, ohne Nullen davor. ( Nicht: "0001" ) 
+
+Noch mehr Tricks:
+Ihr solltet zuerst in den billigen Straßen anfangen zu bauen. Baut dort Geschäfte und Wohnblocks in der Qualitätsstufe 1. 
+
+Wenn man sämtliche Szenarien mit einem Charakter durchspielt, hat man Zugriff auf das Bonus - Szenario "Megapolitan".
+
+Vor dem Bauen lohnt es sich, den Block erst zu pachten (pachtet man ihn später wollen die Gegner ihn auch). 
+
+Man muss einen Geordneten Aufbau haben. Auf einer Strasse macht man die Tagsüber Geöffneten Geschäfte und auf einer anderen Strasse macht man die Nachts Geöfneten Geschäfte. So macht man mehr Gewinn.
+
+Nach einer gewissen Zeit solltet ihr mal schauen, was eure Gegner so machen. Wenn sie einen Block gut bebaut haben, pachtet ihr ihn einfach. Dann bekommt ihr jeden Morgen die Miete für die Gebäude des Gegners. 
+
+Von den Versorgungs-Unternehmen solltet ihr erst gebrauch machen, wenn schon viele Wohnblocks gebaut wurden (dann ist der tägliche Gewinn höher).
+
+Man beraumt selbst eine Versteigerung an und speichert gleich nach Begin der Versteigerung ab.
+Dann geht man im Menue zurück bis 'Load Game bzw Spiel Laden'. Jetzt den eben gespeicherten Spielstand laden und die Versteigerung läuft ohne Gegengebot durch. Man bekommt die Straße zwar nicht kostenfrei, aber zum Mindestgebot und ohne Gegenwehr. Bei vom Gegner anberaumten Versteigerungen ein Gebot abgeben und dann wie oben verfahren.

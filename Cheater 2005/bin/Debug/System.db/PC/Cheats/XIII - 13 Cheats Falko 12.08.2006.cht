@@ -1,0 +1,42 @@
+XIII - 13
+PC - Personal Computer
+
+Cheats
+Falko
+12.08.2006
+
+Öffnet die Datei user.ini in eurem XIII/system Verzeichnis und schreibt hinter eine der unbelegten Tasten einen der folgenden Codes, wobei mehrere Einträge mit einem | getrennt werden:
+
+ghost: Fliegen & kein Clipping
+walk: Wieder normal
+god: Gott Modus
+allammo: Volle Munition
+summon xiii.X: Gegenstand X erhalten
+
+Für die Waffen muss folgendes angehängt werden:
+MagnumPick: Magnum
+GrenadPick: Granate
+KalashPick: Kalashnikov
+ArbaletePick: Armbrust
+SilencerPick: Schalldämpfer
+TKnifePick: Messer
+FusilPombePick: Shotgun
+BerettaPick: Beretta
+
+Für in der Demo nicht verwendbare Waffen:
+ArbaleteX3Pick: 3fach Armbrust
+BazookPick: Bazooka
+LHarponPick: Harpune
+FusilSnipePick: Sniper Rifle
+m60Pick: M60
+FusilChassePick: Jagdgewehr
+FGrenadPick: Granate
+MiniUziPick: Mini Uzi
+
+Für die Powerups:
+GiletMk1Pick: Leichte Weste
+GiletMk2Pick: Schwere Weste
+CasquePick: Helm
+AutoFullMePick: Medikit  
+ Öffnet die Datei user.ini in eurem XIII/system Verzeichnis und ersetzt die Zeile Comma= mit Comma=GOD.
+Wenn Ihr nun im Spiel , drückt schaltet Ihr den Godmode ein.

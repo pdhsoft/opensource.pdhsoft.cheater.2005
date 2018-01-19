@@ -1,0 +1,88 @@
+KingPin
+PC - Personal Computer
+
+Cheats
+Cheater 2005
+13.10.2005
+
+Starte das Spiel mit dem Parameter "+developer 1", d.h. das Spiel wird z.B. mit "c:\Spiele\Kingpin\kingpin.exe +developer 1" aufgerufen. Alternative kannst du noch die Datei autoexec.cfg bearbeiten, die im Unterverzeichnis "main" liegt und dort "set developer 1" eintragen. Dadurch bleibt die Einstellung dauerhaft. 
+Drücke im Spiel die "^"-Taste, um in die Konsole zu gelangen. Dann kannst du folgende Befehle eingeben: 
+IMMORTAL Unverwundbarkeit, sprich Gott-Modus 
+NOTARGET Du bleibst unsichtbar für die Gegner 
+NOCLIP Man kann durch Wände gehen 
+CL_REARVIEWMIRROR 1 Rückspiegel-Ansicht 
+EXTRACRISPY Aufspüren und Vernichten von Feinden 
+Desweiteren gibt es auch wieder den "GIVE" - Befehl, mit dem du alle möglichen Dinge erhalten kannst. Im folgenden eine alphabetische Liste: 
+ALL Alle Dinge (kein Geld) 
+AMMO Volle Munition für alle Waffen 
+BATTERY Volle Batterie 
+CASH x Du bekommst x Dollar 
+CHEM_PLANT_KEY Den chemischen Plant-Schlüssel 
+COIL Du bekommst ein Coil 
+LIZZY HEAD Du bekommst Lizzys Kopf 
+FLASHLIGHT Eine Taschenlampe 
+FUSE Du bekommst die Sicherung 
+OFFICE_KEY Du bekommst den Schlüsel zu Mokers Büro 
+SHIPYARD_KEY Du bekommst den Shipyard-Schlüssel 
+SHOP_KEY Du bekommst den Bait-Shop Schlüssel 
+TICKET Das Skytram Ticket 
+VALVE Du bekommst das Ventil 
+WAREHOUSE_KEY Schlüssel zum Warehouse 
+WATCH Eine Uhr 
+WEAPONS Alle Waffen 
+WHISKEY selbstredend...prost 
+Folgende Waffen kannst du ebenfalls mit dem GIVE-Befehl erhalten:
+BAZOOKA CROWBAR FLAMETHROWER GRENADE LAUNCHER 
+HEAVY MACHINEGUN PISTOL SHOTGUN TOMMYGUN 
+Munition gibt es mit folgenden Namen (ebenfalls per GIVE):
+BULLETS SHELL 308CAL 
+GRENADES ROCKETS GAS 
+Noch zwei spezielle Goodies für die Waffen:
+SPISTOL Schaldämpfer für die Pistole 
+PISTOL RELOAD automatisches Nachladen für die Pistole 
+Gesundheit ist wichtig und die notwendigen Dinge werden mit folgenden Namen ergatter (immer noch alles mit GIVE) 
+ADRENALINE Adrenalin-Stoß 
+ARMOR Volle Panzerung 
+HEALTH Volle Gesundheit 
+HELMET ARMOR Helm-Panzerung 
+JACKET ARMOR Westen-Panzerung 
+LARGE HEALTH Großen Medi-Kit 
+LEGS ARMOR Bein Panzerung 
+SMALL HEALTH Kleiner Medi-Kit 
+Der letzte Befehl ist schließlich MAP und führt wie der Name schon sagt zum Laden einer beliebigen Karte. Hier sind die Kurznamen und die dazu gehörigen Level-Namen. Aufurf also z.B. mit "MAP BIKE". 
+SR1 Skidrow 
+SEWER Sewers 
+SR2 The Super 
+BAR_SR Jax 
+SR3 Mean Streets 
+SR4 The Jesus 
+BIKE Bike 
+PV_H Poisonville 
+BAR_PV Club Swank 
+PV_1 Louie's Errand 
+PV_B Blanco Industries 
+PV_BOSS Nikki Blanco 
+SY_H Lizzie's Problem 
+BAR_SY Salty Dog 
+SY1 Pier Pressure 
+SY2 Das Boot 
+STEEL1 Steeltown 
+BAR_ST Boiler Room 
+STEEL2 Steel Mill 
+STEEL3 Steel Processing 
+STEEL4 Moker Shipping 
+KPCUT3 Consequences 
+TY1 Derailed 
+TY2 Dark Passage 
+TY3 Trainyards 
+TY4 Depot 
+KPCUT4 The Picnic 
+RC1 Radio City Station 
+RC2 Enter the Dragons 
+RC3 Streets of Fire 
+RC4 Skytram Station 
+BAR_RC Typhoon 
+RC5 Central Towers 
+RCBOSS1 Crystal Palace East 
+RCBOSS2 Crystal Palace West 
+KPCUT7 Outro  

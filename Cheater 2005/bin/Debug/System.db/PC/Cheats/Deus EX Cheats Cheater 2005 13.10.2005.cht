@@ -1,0 +1,122 @@
+Deus EX
+PC - Personal Computer
+
+Cheats
+Cheater 2005
+13.10.2005
+
+Editiere die Datei user.ini, welche sich in dem Verzeichnis deusex/system befindet und ändere  zum Beipspiel 't=' zu 't=talk' (wiederhole diesen Vorgang bei allen evtl. weiteren vorkomenden 't='). Im Spiel, z.B. die Taste "T" drücken, damit die Eingabezeile 'Say:' erscheint. Lösche nun das Wort 'Say'. Bitte beachten, dass die Eingabezeile bei der Eingabe somit immer leer steht. 
+Um den Cheatmodus zu aktivieren, gib nun einfach nachfolgenden Befehl in diese Eingabezeile ein: "set DeusEx.JCDentonMale bCheatsEnabled True" ohne Anführungsstriche ein. Jetzt könnt ihr nachfolgende Cheatcodes verwenden: 
+  
+  Code Funktion 
+god God Modus 
+invisible Unsichtbar 
+behindview 1/0 Third Person Anzeige AN/AUS 
+fly Flug Modus AN 
+walk Flug Modus AUS 
+iamwarren EMP Feld aktivieren 
+allskillpoints Alle Skill Punkte 
+allweapons Alle Waffen 
+allammo Munition aufladen 
+allaugs Alle Basic Augmentations 
+tantalus Ausgewähltes Ziel töten 
+opensesame Ausgewählte Tür entschliessen 
+legend Geheimes Menu 
+allhealth Volle Gesundheit 
+allenergy Volle Energie 
+allcredits 10000 Credits 
+allimages Alle Bilder 
+summon X Summon Item X (siehe unten stehende Liste) 
+spawnmass X # Spawn # of Item X 
+
+
+Summon Objekte 
+Lockpick  
+Basketball 
+MultiTool 
+AcousticSensor  
+Ammo10mm 
+AmmoDart 
+AmmoDartPoison 
+AmmoDartFlare 
+AmmoNapalm 
+AmmoPlasma  
+Ammo3006 
+AmmoRockets 
+AmmoRocketWP 
+Ammo20mm 
+AmmoSabot 
+WeaponPistol 
+WeaponRifle 
+WeaponStealthPistol 
+WeaponShuriken 
+WeaponSawedOffShotgun 
+WeaponProd 
+WeaponPlasmaRifle 
+WeaponAssaultShotgun 
+WeaponFlameThrower 
+WeaponGasGrenade 
+WeaponLAM  
+Weaponmodaccuracy 
+Weaponmodclip 
+Weaponmodlaser 
+Weaponmodrange 
+Weaponmodrecoil 
+Weaponmodscope 
+Weaponmodsilencer 
+WeaponCombatKnife 
+WeaponCrowbar 
+WeaponHideAGun 
+WeaponAssaultGun 
+WeaponLAW 
+WeaponPepperGun 
+WeaponMiniCrossbow 
+WeaponSword 
+WeaponBaton 
+WeaponNanoSword 
+WeaponEMPGrenade 
+WeaponNanoVirusGrenade 
+Weapongepgun 
+Weaponmodreload 
+AugBallistic 
+AugCloak 
+AugDatalink 
+AugEMP 
+AugEnviro 
+AugIFF 
+AugShield 
+AugStealth 
+AugTarget 
+Terrorist 
+JCDentonMale 
+PaulDenton 
+Greasel 
+Gray 
+TiffanySavage 
+NicoletteDuClare 
+JoeGreene 
+WaltonSimons 
+JojoFine 
+AlexJacobson 
+JaimeReyes 
+BobPage 
+RepairBot 
+MedicalBot 
+HazMatSuit 
+Sodacan 
+Candybar 
+Liquor40oz 
+SoyFood 
+VialAmbrosia 
+Rebreather 
+AdaptiveArmor 
+Binoculars 
+BallisticArmor 
+LiquorBottle 
+Credits 
+WineBottle 
+Cigarettes 
+MedKit 
+VialCrack 
+Flare 
+FireExtinguisher

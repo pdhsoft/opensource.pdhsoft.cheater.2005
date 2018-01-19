@@ -1,0 +1,8 @@
+Fallout 2
+PC - Personal Computer
+
+Codes
+Cheater 2005
+13.10.2005
+
+Eröffne ein neues Spiel, wähle einen Chrakter und speicher ab. Lade den Spielstand aus dem Verzeichnis FALLOUT2\DATA\ mit einem Hex-Editor und ändere den letzten Wert von 05 auf 23. Nun kann man 35 Punkte auf seinen Charaktereigenschaften verteilen. 

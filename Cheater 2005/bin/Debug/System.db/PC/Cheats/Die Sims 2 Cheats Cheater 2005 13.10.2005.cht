@@ -1,0 +1,100 @@
+Die Sims 2
+PC - Personal Computer
+
+Cheats
+Cheater 2005
+13.10.2005
+
+Öffnet das Cheat Menü mit Ctrl + Shift + C und gebt dort "boolProp testingCheatsEnabled true" (ohne "") ein. Im Sim-Erstellen Modus könnt ihr nun Shift + N drücken, bevor ihr den ersten Sim erstellt und ganz neue Dinge für die Sims auswählen. Shift + M beendet das. Im Lebens-Modus müsst ihr auf einen Sim klicken und dabei Shift drücken, um den Debug Modus zu öffnen
+
+Tätigt einen Rechtsklick auf das Sims 2 Symbol auf eurem Desktop und ergänzt dann unter Eigenschaften beim Eintrag Ziel folgende Parameter. Vergesst jedoch das Leerzeichen nicht!
+
+-nosound - kein Sound
+-f - Fullscreen Modus
+-r[Breite]x[Höhe] - gebt hier die gewünschte Auflösung ein
+-w - Fenster Modus 
+
+Um das Geld zu verdoppeln müsst ihr einfach das Cheatfenster öfnen (Strg+Shift+c) und irgend einen Buchstaben eingeben; nun wird das Fenster groß.Dann kaching eingeben und Enter drücken, nun habt ihr 1000 Dollar dazu bekommen. Jetzt immer Pfeiltaste oben und Enter drücken.Das Geld wird immer mehr 
+
+Strg und shift (grossbuchstabenumschaltetaste) und c drücken damit das cheatfenster aufgeht.
+
+Expand erweitert das cheatfenster
+Exit schliesst es wieder
+
+Geldcheat
+Motherlode gibt 50.000 Simmoleons
+
+Alter ausschalten
+aging -off schaltet das Altern aus
+aging -on schaltet das Altern wieder an
+
+Komplettübersicht
+Ausdrücke in eckigen Klammern müssen immer komplett ersetzt werden. Für [A - B] sollte jeweils ein Wert zwischen A und B eingesetzt werden, für [A/B] jeweils entweder A oder B. In allen anderen Fällen sollte aus dem Text ersichtlich sein, wodurch der Ausdruck ersetzt werden muss. 
+
+Eingabe Wirkung 
+Kaching 1.000 Simoleons (Geldcheat) 
+motherlode 50.000 Simoleons (besserer Geldcheat) 
+aging [-on/-off] Alterung der Sims ein- oder ausschalten 
+moveobjects [on/off] (Dinge löschen oder bewegen, die das normalerweise nicht zulassen würden)
+deleteallcharacters (Alle Sims in einer Nachbarschaft löschen) 
+terraintype [desert/temperate] (Terrain der aktuellen Nachbarschaft) ändern (Wüste/Grün) 
+Slowmotion [0-8] (Spiel nicht (0) bis stark (8) verlangsamen)
+Vsync [on/off] (Ausschalten macht das Spiel schneller, aber Grafikfehler)
+strechSkeleton [X] (Verändert die Größe eurer Sims entsprechend des Wertes X)
+autopatch [on/off] (Das Spiel automatisch nach offiziellen Patches suchen lassen.)  
+ 
+Autor: tikimaster 
+
+letterBox # - Letterbox wird angezeigt (# = 0.0 bis 0.4)
+vignette # # # - Blurry an (# = 0.0 bis 1.0)
+slowMotion # - Geschwindigkeit einstellen (# = 0 normal bis 8)
+filmGrain # - Bildschirm wird strichig (# = 0.0 bis 1.0)
+bloom rgb # - Blur Effekt (# = 0.0 bis 1.0)
+boolProp enablePostProcessing false - Postprocessing aus
+boolProp enablePostProcessing true - Postprocessing an (wird für alle diese Cheats benötigt)
+motherlode - 50000 Simoleans
+
+deleteAllCharacters - nur in der Nachbarschafts-Ansicht, löscht alle Sims
+TerrainType (desert/temperate) - nur in der Nachbarschafts-Ansicht, schaltet zwischen den beiden Klimagefilden um
+
+Kaching = +1000 Sim money
+Exit=exit
+Expand = Expand the cheat window
+MoveObjects on = turns moving of objects on
+MoveObjects off = turns moving of objects off
+aging -on = turns aging of sim on
+aging -off = turns aging of sim off
+autoPatch -on = turns game autoupdate on
+autoPatch -off = turns game autoupdate off
+slowMotion # = Make you set the game speed. ( # = 0to8, 0 is normal)
+
+exit - Cheat Fenster schließen
+expand - Cheat Fenster vergrößern/verkleinern
+kaching - 1000 Dollar
+vsync (on/off) - Performance verbessern, Grafik Qualität sinkt aber etwas
+autopatch (on/off) - automatisch über Patches informieren
+help - einige Cheats zeigen
+moveobjects (on/off) - Objekte können bewegt/gelöscht werden
+aging - ihr altert nicht 
+
+
+help: zeigt alle Cheats
+help [cheatname]: zeigt Info zum jeweiligen Cheat
+exit: Cheat Modus schließen
+expand: Fenster vergrößern
+moveObjects on/off: Footprint Limitation im Buy- und Build-Mode aus
+aging >on/off: altern an oder aus
+autoPatch -on/off: Autoupdate an/aus
+slowMotion [X]: Slow Motion (X = 0-8)
+boolProp enablePostProcessing true/false: Postprocessing cheats an / aus
+bloom [r g b x] [0.0 - 1.0]: Blur Effect
+vignette [centerX centerY X] [0.0 - 1.0]: Blur Effect an entsprechender Stelle.
+filmGrain [val] [0.0-1.0]: Grainy Screen
+letterBox [val] [0.0-0.4]: Letterbox Effekt 
+Kaching = + 1000 Sim Money 
+exit = Exit 
+moveObjects on = Objekt Bewegung an
+moveObjects off = Objekt Bewegung aus 
+
+Wenn ihr eine Familie wollt die nur aus Teenagern besteht müsst ihr folgendes tun. Wenn ihr eine neue Familie erstellt, einen Erwachsenen nehmen. Dann lasst die Familie in ein Haus einziehen und drückt das Cheatfenster - dann gebt ein moveobjects on. Nun müsst ihr den Erwachsenen Sim verkaufen und er kommt nie wieder zurück! 
+

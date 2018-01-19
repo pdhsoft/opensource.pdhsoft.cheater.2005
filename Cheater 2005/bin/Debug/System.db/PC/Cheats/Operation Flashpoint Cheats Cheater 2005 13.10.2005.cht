@@ -1,0 +1,66 @@
+Operation Flashpoint
+PC - Personal Computer
+
+Cheats
+Cheater 2005
+13.10.2005
+
+Hint:
+In Operation Flashpoint after the 'Montignac Must Fall' mision where you have to get to that hideout where a group of resistance fighters capture you if you go in to the nearby forests you can see small groups of U.S troops traveling to the evac site at Morton.
+
+Invincibility:
+Start your mission and go until you get to the helicopter. Wait a few seconds and jump out of the helicopter. Jump out before they start screaming about the helicopter getting hit. You will become invincible until you go to the Target area and finish the level.
+
+Gametip: 
+Tired for going into battle with only 11 men?
+Here's a little cheat: Place your squad, and you as leader. Then place other platoons not far away from you.Then place wayponts on all platoons leaders \"join(and lead)\". Now the others will be 0 number. This will work only on Mission you have been created, and you CANNOT control those soldiers, who have number 0, but they will follow you. WARNING: if one of soldiers who have number 0 dies, computer crashes.
+
+Cheat Codes:
+Hold [Left Shift] and press [Keypad Minus] at the indicated screen. Release the keys, then type one of the following codes to activate the corresponding cheat function: 
+
+RESULT SCREEN CHEAT CODE 
+All missions unlocked Main menu campaign 
+Saves game During game savegame 
+End current mission During game endmission 
+Unknown During game topography 
+
+Finish Mission:
+During play hold the [left shift] and [keypad minus] then let go, type "endmission" to finish mission.
+
+All Missions:
+At the First Screen. Hold the left click and press the minus key on the number keypad then type "campaign" to open all campaigns.
+
+Infinite Save Games:
+If you need to save more than once in a mission, then you need to delete the old save game file. It can be found in the directory Users\\Saved\Campaigns\1985. ALT-TAB out of the game, make a backup copy (trust me!) and then delete the save file. ALT-TAB back and press ESC to pause the game. You should now be able to save the game again. You can do this as many times as you like. 
+
+Full Ammo:
+On the second level on campaign mode when your officer shouts go go go! Immediately type in moreammo and u will get full ammo.
+
+Unlimited Ammo (Hex Method): 
+To alter the amount of ammo available to each weapon or magazine simply edit the weapons.cfg file found in the 'saved' folder contained within your user folder.
+...\Users\NAME\Saved\Campaigns\1985\
+or
+...\Users\NAME\Saved\Missions\01TakeTheCar\
+
+* Save a back-up copy prior to changing !!!
+The weapons.cfg file defines weapon classes where u can change the ammo amounts.
+
+class Magazine3
+{
+type="M16";
+ammo=30.000000;
+reload=0.133733;
+id=352.000000;
+};
+class Magazine4
+{
+type="HandGrenade";
+ammo=1.000000;
+reload=1.215374;
+id=353.000000;
+};
+
+Once changed you will need to re-start your mission or continue your campaign for the changes to take effect. These changes are often reset at the beginning of new missions/campaings requiring you to alter the new cfg file for that particular mission. 
+
+Bonus Level:
+After you beat the game (I destroyed the second scud and killed Guba) Watch through all the credits and let it go through all the loading screens. After the credits are over it will start a scene with the black ops guy talking on the phone to Dave (Armstrong, the inf. guy) After the scene you get to fly a Cessna into the Everon airport and pick up all the other characters that you got to play and take them to a pub.

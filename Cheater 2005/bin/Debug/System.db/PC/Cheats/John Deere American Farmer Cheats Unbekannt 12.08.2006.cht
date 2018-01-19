@@ -1,0 +1,14 @@
+John Deere American Farmer
+PC - Personal Computer
+
+Cheats
+Unbekannt
+12.08.2006
+
+Speichert ein Spiel ab. Öffnet im Spielordner Data\Games mit einem Texteditor die XML-Datei, die dem Namen des Spielstands entspricht. Dort stehen alle Werte. In der zweiten Zeile ist das Guthaben aufgeführt, für 200.000 Dollar etwa: 
+
+200.000 
+
+Erhöht den Wert nach Belieben, und speichert ab. 
+
+Um dauerhaft ein neues Szenarium mit viel Geld zu beginnen, ändert die XML-Dateien im Ordner Worlds und in den Unterordnern von Scenarios (dort für jede Schwierigkeitsstufe separat) auf die gleiche Weise. 

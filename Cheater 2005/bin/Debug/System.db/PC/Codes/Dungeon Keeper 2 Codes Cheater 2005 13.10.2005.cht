@@ -1,0 +1,47 @@
+Dungeon Keeper 2
+PC - Personal Computer
+
+Codes
+Cheater 2005
+13.10.2005
+
+Um alle Level spielen zu können, Zugriff auf alle Pet Missions zu erhalten und alle geheimen Missionen spielen zu können, haben wir eine REG-Datei für euch, die die entsprechenden Einträge in der Systemregistrierung für euch vornimmt. 
+In der englischen Version funktioniert es prima, wir würden und freuen, wenn ihr uns über eure Erfahrungen mit der deutschen Version schreiben würdet. 
+Etwas weiter unten steht auch, wie man diese Vorgänge selbst machen kann und wie man Blut wiederherstellt, mehr Mana bekommt, etc. 
+Drücke [Strg]+[Alt]+[C] und gib einen der folgenden Cheats ein:
+show me the money 1 000 000 Einheiten Gold oder die Schatzkammer wird aufgefüllt bis kein Platz mehr ist 
+feel the power Alle Monster auf Level 10 setzen 
+this is my church Alle Räume freischalten 
+i believe its magic Alle Zaubersprüche freischalten 
+fit the best Alle Räume und Fallen freischalten 
+now the rain has gone Deckt die Karte auf 
+do not fear the reaper Level gewinnen 
+Wenn Du den Cheat richtig eingeben hast hörst Du das Geräusch einer Tür. 
+Um in einen beliebigen Level zu springen, rufe die Programmdatei DK2.EXE mit dem Kommandozeilen-Parameter -abc auf, wobei abc für einen der folgenden Levelnamen steht: 
+level1 level2 level3 
+level4 level5 level6a 
+level6b level7 level8 
+level9 level10 level11a 
+level11b level11c level12 
+level13 level14 level15a 
+level15b level16 level17 
+level18 level19 level20 
+secret1 secret2 secret3 
+secret4 secret5   
+Um die Mana-Vorräte zu erhöhen, einfach das Spiel speichern, den momentanen Mana-Wert in eine Hexzahl umrechen (Intel-Long), im Savegame suchen und ausbessern. Funktioniert leider nicht mit dem Gold. 
+Die deutsche Version des Spiels ist zensiert; die Darstellung von Blut und der Folterszenen wurde entfernt. Um den Originalzustand wiederherzustellen, lösche die Dateien BFILE.BLD und TFILE.BLD aus dem Unterverzeichnis DATA. Starte nun den Registrierungseditor (Start/Ausführen, REGEDIT eintippen), und hangele Dich bis zum Schlüssel Arbeitsplatz/HKEY_CURRENT_USER/Software/Bullfrog Productions Ltd/Dungeon Keeper II/Configuration/Video durch. Klicke zweimal auf den Wert Torture Details, und ändere den Inhalt von 0 auf 1. Wechsele nun zum Schlüssel Arbeitsplatz/HKEY_CURRENT_USER/Software/Bullfrog Productions Ltd/Dungeon Keeper II/Configuration/Player und ändere dort den Wert Use Blood ebenfalls auf 1. 
+Um alle Videos sehen zu können kann man bei der deutschen Version aus dem German Verzeichniss die rap.exe in ein separates Verzeichnis auf der Festplatte kopieren. Das Video das man sehen will wird jetzt in dasselbe Verzeichnis kopiert und der Name in rap unbennent (wobei die Dateiendung die gleiche bleibt). Nun wird noch rap.exe ausgeführt und man sieht das Video. 
+Tempelopferungen
+2 Salamander 1 Eiserne Jungfrau 
+2 Eiserne Jungfrauen 1 Skelett 
+2 Zauberer 1 Goblin 
+2 Trolle 1 Zauberer 
+2 Teufler 1 Schurke 
+2 Schwarze Ritter 1 Vampir 
+2 Skelette 1 Dunkelelf 
+2 Dunkelelfen 1 Troll 
+2 Schurken 1 Salamander 
+2 Vampire 1 Teufler 
+1 Riese + 1 Teufler 1 Barrikade 
+1 Vampir + 1 Troll 1 Angstfalle 
+1 Eiserne Jungfrau + 1 Troll 1 Blitzfalle Um alle Level spielen zu können, Zugriff auf alle Pet Missions zu erhalten und alle geheimen Missionen spielen zu können, haben wir eine REG-Datei für euch, die die entsprechenden Einträge in der Systemregistrierung für euch vornimmt. 

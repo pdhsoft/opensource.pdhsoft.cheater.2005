@@ -1,0 +1,98 @@
+Soldier of Fortune
+PC - Personal Computer
+
+Cheats
+Cheater 2005
+13.10.2005
+
+Bevor ihr die Cheats benutzen könnt müßt ihr erst das Spiel  mit der command line "sof.exe +set console 1" starten oder diejenigen unter euch, die ein wenig vertrauter mit der MAterie sind, tragt ihr dies einfach in eure Config Datei ein.. Dann drückt ihr während des Spiels die Taste unter Esc (die links neben der eins) (Die mit dem ^und dem °)  um die Console aufzurrufen. Dann \cheats 1 eintippen um die Codes zu aktivieren. Nun einfach folgende Cheat-Codes eingeben. 
+Code: Wirkung: Infos: 
+heretic Gott-Modus Unkaputtbar..... 
+ninja Invisibility Unsichtbar für alle Gegner..... 
+phantom No clip mode Ihr könnt durch Wände gehen..... 
+elbow Erste Waffen Hiermit bekommt ihr die ersten Waffen (Kampfmesser, 9mm Pistole, Big Pistol, das Schrotgewehr, Scharfschützengewehr und die Submachine Gun) 
+bigelbow Zweite Waffen Hiermit bekommt ihr die Zweiten Waffen (Schallgedämpfte SMG, Schweres Maschinengewehr, Raketenwerfer, Flammenwerfer, Granatwerfer und Impulsgewehr) VORSICHT: Die ersten Waffen verschwinden wieder........... 
+matrix x Slowmo Slow Motion Modus.Wobei x eine zahl zwischen 1 und 10 ist. 
+updateinvfinal Mehr Munition Dieser Code ist mehrmals verwendbar. Am besten in der Konsole mit folgendem Befehl auf eine Beliebige taste legen, mit der ihr im Spiel mit einem einfachen Tastendruck wieder Munition bekommt. Und hier der Befehl:   bind m "updateinvfinal"       (dann habt ihr es auf die Taste m gelegt)   
+gimme x Give-Befehl Hiermit kann man sich alle Gegenstände und Waffen geben lassen (Damit könnt ihr auch ALLE Waffen auf einmal besitzen) Hier nun die Liste:  
+Waffen:     
+    GIMME item_weapon_pistol = 9mm 
+GIMME item_weapon_pistol2 = .44 
+GIMME item_weapon_shotgun = Shotgun
+GIMME item_weapon_sniper_rifle = Sniper Rifle 
+GIMME item_weapon_machinepistol = Silenced 9mm 
+GIMME item_weapon_assault_rifle = SMG 
+GIMME item_weapon_machinegun = MachineGun 
+GIMME item_weapon_autoshotgun = Slugthrower 
+GIMME item_weapon_rocketlauncher = Rocket Launcher 
+GIMME item_weapon_flamethrower = Flamethrower 
+GIMME item_weapon_microwavepulse = MicrowavePulseGun  
+Munition:     
+    GIMME item_ammo_sp_pistol (9mm) 
+GIMME item_ammo_sp_pistol2 (.44) 
+GIMME item_ammo_sp_shotgun (shells) 
+GIMME item_ammo_sp_slug (slugs) 
+GIMME item_ammo_sp_rocket (rockets) 
+GIMME item_ammo_sp_gas (flamer) 
+GIMME item_ammo_sp_battery (MPG)  
+Ausrüstungen:     
+    GIMME item_equip_armor = Body Armor 
+GIMME item_equip_medkit = MedKit 
+GIMME item_equip_c4 = C4 Explosive 
+GIMME item_equip_flashpack = Flashbang's
+GIMME item_equip_grenade = Hand Grenades 
+GIMME item_equip_light_goggles = nightvision 
+GIMME item_equip_claymore = Claymore Mines Bevor ihr die Cheats benutzen könnt müßt ihr erst das Spiel  mit der command line "sof.exe +set console 1" starten oder diejenigen unter euch, die ein wenig vertrauter mit der MAterie sind, tragt ihr dies einfach in eure Config Datei ein.. Dann drückt ihr während des Spiels die Taste unter Esc (die links neben der eins) (Die mit dem ^und dem °)  um die Console aufzurrufen. Dann \cheats 1 eintippen um die Codes zu aktivieren. Nun einfach folgende Cheat-Codes eingeben. 
+Code: Wirkung: Infos: 
+heretic Gott-Modus Unkaputtbar..... 
+ninja Invisibility Unsichtbar für alle Gegner..... 
+phantom No clip mode Ihr könnt durch Wände gehen..... 
+elbow Erste Waffen Hiermit bekommt ihr die ersten Waffen (Kampfmesser, 9mm Pistole, Big Pistol, das Schrotgewehr, Scharfschützengewehr und die Submachine Gun) 
+bigelbow Zweite Waffen Hiermit bekommt ihr die Zweiten Waffen (Schallgedämpfte SMG, Schweres Maschinengewehr, Raketenwerfer, Flammenwerfer, Granatwerfer und Impulsgewehr) VORSICHT: Die ersten Waffen verschwinden wieder........... 
+matrix x Slowmo Slow Motion Modus.Wobei x eine zahl zwischen 1 und 10 ist. 
+updateinvfinal Mehr Munition Dieser Code ist mehrmals verwendbar. Am besten in der Konsole mit folgendem Befehl auf eine Beliebige taste legen, mit der ihr im Spiel mit einem einfachen Tastendruck wieder Munition bekommt. Und hier der Befehl:   bind m "updateinvfinal"       (dann habt ihr es auf die Taste m gelegt)   
+gimme x Give-Befehl Hiermit kann man sich alle Gegenstände und Waffen geben lassen (Damit könnt ihr auch ALLE Waffen auf einmal besitzen) Hier nun die Liste:  
+Waffen:     
+    GIMME item_weapon_pistol = 9mm 
+GIMME item_weapon_pistol2 = .44 
+GIMME item_weapon_shotgun = Shotgun
+GIMME item_weapon_sniper_rifle = Sniper Rifle 
+GIMME item_weapon_machinepistol = Silenced 9mm 
+GIMME item_weapon_assault_rifle = SMG 
+GIMME item_weapon_machinegun = MachineGun 
+GIMME item_weapon_autoshotgun = Slugthrower 
+GIMME item_weapon_rocketlauncher = Rocket Launcher 
+GIMME item_weapon_flamethrower = Flamethrower 
+GIMME item_weapon_microwavepulse = MicrowavePulseGun  
+Munition:     
+    GIMME item_ammo_sp_pistol (9mm) 
+GIMME item_ammo_sp_pistol2 (.44) 
+GIMME item_ammo_sp_shotgun (shells) 
+GIMME item_ammo_sp_slug (slugs) 
+GIMME item_ammo_sp_rocket (rockets) 
+GIMME item_ammo_sp_gas (flamer) 
+GIMME item_ammo_sp_battery (MPG)  
+Ausrüstungen:     
+    GIMME item_equip_armor = Body Armor 
+GIMME item_equip_medkit = MedKit 
+GIMME item_equip_c4 = C4 Explosive 
+GIMME item_equip_flashpack = Flashbang's
+GIMME item_equip_grenade = Hand Grenades 
+GIMME item_equip_light_goggles = nightvision 
+GIMME item_equip_claymore = Claymore Mines 
+
+matrix X      : Stellt die Spielgeschwindigkeit ein, 
+                    Standardwert ist 1.0. Kleinere Werte 
+                    ergeben einen Zeitlupen Effekt, 
+                    größere beschleunigen den Spielablauf  
+ 
+Heretic=Godmode 
+Phantom=No Clipping 
+Ninja=Unsichtbar 
+Elbow=Waffen 1-5 
+Bigelbow=Waffen 6-10 
+Matrix #=Timescale(1-10) 
+Updateinvfinal=mehr Munition 
+Kill=??? 
+Putaway=??? 
+Destroyents=???

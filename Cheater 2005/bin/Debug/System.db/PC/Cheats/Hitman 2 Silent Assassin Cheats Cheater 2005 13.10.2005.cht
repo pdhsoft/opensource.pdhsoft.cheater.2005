@@ -1,0 +1,67 @@
+Hitman 2 Silent Assassin
+PC - Personal Computer
+
+Cheats
+Cheater 2005
+13.10.2005
+
+Zuerst öffnet ihr in "C:\...\Hitman 2\" die Datei "Hitman2.ini" und fügt dort "EnableCheats 1" (ohne ""), anschließend dann das Spiel starten. 
+
+Tippt nun während des Spiels, also nicht in der Konsole (die nicht mehr existiert), langsam folgende Cheats ein: 
+
+ 
+ 
+IOISLO 
+IOIER 
+IOIHITLEIF
+IOIHITALI
+IOILEPOW
+IOIGRV 
+IOINGUN
+IOIPOWER
+IOIGIVES
+IOIRULEZ 
+ Zeitlupenmodus Ein-/Ausschalten 
+Bombenmodus Ein-/Ausschalten 
+Lebensenergie auffrischen
+Alimodus Ein-/Ausschalten
+Spezialangriffsmodus Ein-/Ausschalten
+Gravitation Aus-/Einschalten
+Nagelgewehrmodus Ein-/Ausschalten
+Megakraft
+Alle Waffen und Gegenstände
+Godmodus Ein-/Ausschalten
+ 
+Auf dem Desktop die Game-Exe mit diesem erweitern: "enablecheats 1" - Dann einfach während des Spiels folgendes eingeben:
+
+ioislo - Slowmotion an/aus
+ioier - Bomb Mode an/aus
+ioihitleif - Full Health
+ioihitali - Boxen an/aus
+ioilepow - Lethalcharge an/aus
+ioigrv - Schwerkraft an/aus
+ioingun - Nailgun Mode an/aus
+ioipower - Megakräfte
+ioigives - Alle Waffen und Gegenstände
+ioirulez - Godmode an/aus
+
+Beachten, bei z amerikanische Tastatur - y 
+ 
+ 
+ 
+ 
+Im Spielverzeichnis die Datei HITMAN2.INI mit einem Editor öffnen und hinter 
+
+enableconsole 
+
+eine 1 setzen. Nun das Spiel starten und mit ^ die Konsole öffnen. Hier eingeben: 
+
+IOIRULEZ - God Mode 
+IOIGIVES - Alle Waffen 
+IOIHITLEIF - Health 
+IOISLO - Slow Motion 
+IOIER - Bomb Mode 
+IOIHITALI - Ali Mode 
+IOILEPOW - Special attack Mode 
+IOIGRV - The force of gravity Mode 
+IOINGUN - Nail rifle 

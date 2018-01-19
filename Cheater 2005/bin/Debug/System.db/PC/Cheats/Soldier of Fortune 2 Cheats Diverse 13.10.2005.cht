@@ -1,0 +1,216 @@
+Soldier of Fortune 2
+PC - Personal Computer
+
+Cheats
+Diverse
+13.10.2005
+
+Starte das Spiel mit dem Start-Parameter (s.u.)
+
+ SoF2.exe" +set lock_blood 0 +set com_multilingual 2 +set sp_language 0 +set console 1
+
+ und drücke im Spiel [Shift][^] (also die [°]-Taste) um die Konsole zu öffnen. Nun gib ein
+
+ setrandom sv_cheats 1
+
+ Jetzt ist der Cheatmodus aktiv und du kannst eingeben:
+
+ god            God-Modus
+ give all       Alle Waffen
+ give x         Du bekommst Gegenstand X
+ noclip         Durch Wände gehen, fliegen
+ notarget       Gegner sehen dich nicht
+ cmdlist        Alle Kommandos auslisten
+ give (item)    Erzeuge Gegenstand (item)
+ give armor     Armor
+ give ammo      Munition aufgefüllt
+ give health    Gesundheit
+ give stamina   Stamina
+ pinkspider     Unbegrenzt Power
+ nofatigue      Keine Ermüdung
+ dir maps       Alle Karten aufdecken
+ g_gravity #    Erdanziehungskraft ändern zu # (0-800, 800 ist normal)
+ g_speed #      Verändere Movement Rate zu #
+ name (Text)    Spielernamen zu (Text) ändern
+ toggle r_fullscreen   Full Screen <-> Windowed
+ serverinfo     Zeige Server Settings
+ reconnect      Zum letzten Server verbinden
+ kill           Selbstmord
+ quit           Spiel beenden
+ menu lock      Lock-Menü
+ mapname        Zeige Kartenname
+
+ map x       Gehe zu Karte x, wobei X sein kann
+
+                air1
+                air2
+                air3
+                air4
+                arm1
+                arm2
+                cem1
+                col1
+                col10
+                col2
+                col3
+                col4
+                col6
+                col7
+                col8
+                col9
+                finca1
+                finca2
+                finca3
+                finca4
+                hk1
+                hk2
+                hk3
+                hk4
+                hk5
+                hk6
+                hk7
+                hos1
+                hos2
+                hos3
+                hos4
+                kam1
+                kam10
+                kam11
+                kam12
+                kam2
+                kam3
+                kam4
+                kam5
+                kam6
+                kam7
+                kam8
+                kam9
+                liner1
+                liner2
+                liner3
+                pra1
+                pra2
+                pra3
+                pra4
+                pra5
+                pra6
+                shop1
+                shop2
+                shop3
+                shop4
+                shop5
+                shop6
+                shop7
+                shop8
+                /arioche/small
+
+
+ Andere Zungen behaupten es geht so:
+ Man öffnet die "SoF2.exe" mit einem Hex-Editor und sucht nach "sv_cheats".
+
+ Dieser Ausdruck wird dann mit Punkten (".") überschrieben (bzw. die Werte mit
+ "0" überschrieben). Diese Datei speichern und man müsste in der Konsole im Spiel
+ ("^"-Taste) nun auch "sv_cheats 1" eingeben können ohne dass Die Meldung "read
+ only" erscheint.
+
+ Falls nicht, dann muss in der "myconfig.cfg" (base-Ordner) noch die Zeile (seta
+ sv_cheats "1") eingefügt werden.
+
+ Falls bei der Verkaufsversion von SoF II trotz allem sv_cheats read only bleibt
+ versucht mal in der Konsole "hash sv_cheats 1" (ohne "") einzugeben damit
+ müsste jetzt der Wert sv_cheats bei 25565 oder ähnlich liegen aber die Cheats
+ (god, give all, notarget, usw) funktionieren.
+
+ Einrichten eines Start-/Kommandozeilenparameters:
+
+ Die meisten Spiele legen bei der Installation einen Icon auf dem Desktop an.
+ Diesen Icon klickt man mit der rechten Maustaste an, hält die Taste solange
+ gedrückt, bis das Menü erscheint, dort wählt man VERKNÜPFUNG ERSTELLEN. Windows
+ legt nun einen neuen Icon auf dem Desktop an, mit diesem wiederholt man die
+ Prozedur und wählt nun EIGENSCHAFTEN. Beim Eintrag ZIEL steht der Befehl zum
+ starten des Spiels mit komplettem Pfad, dieser Eintrag muss verändert werden,
+ meistens durch einen Parameter, den man einfach dahinter schreibt. Danach mit
+ OK bestätigen und das Spiel über den neuen Icon starten.
+
+ ---
+
+ Wer es noch nicht weiß: wenn ihr den Cheat "give all" eingebt, bekommt ihr 2
+ Deagles, eine MP5 mit Schalldämpfer und rine Sig 551. Diese sind aber nicht im
+ Menü mit Waffenbildern angezeigt, aber wenn ihr oft genug 2 oder 4 drückt,
+ wählt ihr die Waffe aus. (Benötigt Gold-Patch)
+
+ ---
+
+ Für die finalen Release Versionen (Deu, Eng, US)
+
+ 1. Datei SoF2.EXE mit Hexeditor öffnen und nach dem Wort sv_cheats suchen.
+ Dieses Wort muss gelöscht werden, also am besten mit Punkten überschreiben wie
+ sie vom Hexcode 00 erzeugt werden.
+
+ -> Sinn: Verhindert das bei Beginn eines neuen Levels die Cheats wieder
+ deaktiviert werden. (Wie in der Beta, mit diesem Read only Mist...)
+
+ 2. Die Datei myconfig.cfg im "base" Verzeichnis mit Word/Texteditor öffnen.
+
+ Bei den ganzen bind-Befehlen folgendes hinzufügen: bind [Taste] "sv_cheats 1"
+
+ [Taste] -> Taste eurer Wahl die den Befehl im Spiel aktivieren soll.
+
+ Mit dem "bind"-Befehl kann man nun alle für die Betaversion genannten Cheats auf
+ Tasten legen. Also z. B. bind g "god" oder bind a "give all".
+
+ 3. Im Spiel die Taste betätigen die mit dem Befehl "sv_cheats 1" gekoppelt ist.
+ Jetzt kann man die anderen vordefinierten Tasten benutzen für God-Mode, Alle
+ Waffen, usw...
+
+ ---
+
+ Einfach in der geöffneten Konsole
+
+ raven 1
+
+ eingeben dann im Menü auf das Ravensymbol (Adler) klicken und man kann nun
+ alle Level durch anklicken auswählen
+
+ ---
+
+ Violence Lock in der "UK" Version auf Deutschen Windows 2000 Versionen.
+
+ Geht auf
+
+ Start - Einstellungen - Ländereinstellungen
+
+ Dort drückt ihr Standart (GANZ UNTEN LINKS) und stellt dort USA ein, das ändert
+ nur den Standartwert für neue Benutzer. Die bereits Vorhandenen bleiben also Deutsch!
+
+ ---
+
+ Die Konsole mit [Shift] und [^] öffnen und
+
+ menu lock
+
+ eingeben. Schon kann man den Violence-Modus anschalten.
+
+ Bei der Beta von SoF2 konnte man ja mit einem Timescalecheat die
+ Geschwindigkeit ändern. Das geht aber bei der Vollversion nicht, weil der
+ Befehl geschützt ist, darum versucht es so:
+
+ 1. Eine Verknüpfung auf dem Desktop erstellen (wie oben beschrieben).
+
+ 2. Folgendes eintragen:
+
+    "c:\programme\soldier of fortune ii - double helix\sof2.exe" +set console 1 +set
+    sv_cheats 1 +set fixedtime 1 +set timescale 0.1
+
+    (könnt ihr so übernehmen, Pfad zum Spiel anpassen)
+
+ 3. Sof2 über die Verknüpfung starten; im Hauptmenü könnt ihr die Konsole aufrufen
+    und dann entweder:
+
+    fixedtime #        für # könnt ihr 1-10 eintragen oder auch mehr 4 ist ne gute
+                        Geschw. je kleiner die Zahl desto geringer die Geschw.
+   oder
+   timescale .#       dasselbe wie oben
+
+  !!!Wichtig!!! Ihr müsst ein neues Spiel anfangen. Kann auch sein das es bei euch mit
+  Savegames geht.

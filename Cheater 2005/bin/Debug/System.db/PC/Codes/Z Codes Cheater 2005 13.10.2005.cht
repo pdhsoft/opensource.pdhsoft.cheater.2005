@@ -1,0 +1,12 @@
+Z
+PC - Personal Computer
+
+Codes
+Cheater 2005
+13.10.2005
+
+Um auch in die letzten Missionen dieses geilen Strategie-Spieles zu kommen, editiere die Datei "OPTIONS.CFG" und nehme folgende änderungen vor: 
+
+ändere Offset 0 in "32" und Offset 1 in "01" (Header)
+ändere Offset 2 bis 21 in "00.
+ändere OFfset 22 bis 31 in "01".

@@ -1,0 +1,174 @@
+Duke Nukem 3D
+PC - Personal Computer
+
+Cheats
+Diverse siehe Cheattext
+13.10.2005
+
+Einige Features sind durch verschiedene Codes zu aktivieren. Die
+Cheats der Vollversion haben wir ein wenig geordnet. Wer das Gefühl hat,
+dass hier noch Cheats fehlen, der kann mit einem HexEditor die Exe.Datei
+durchsuchen und nach CORNHOLIO suchen, dahinter werden alle Cheats im
+Klartext aufgelistet.
+
+
+Gameplay:
+
+DNCORNHOLIO - Schaltet den God-Mode an/aus
+DNKROZ - Schaltet den God-Mode an/aus
+DNSTUFF - Du bekommst alle Gegenstände, Schlüssel und Waffen
+DNITEMS - Du bekommst alle Gegenstände und Schlüssel (aber keine
+Waffen oder Munition)
+DNWEAPONS - Du erhältst alle Waffen
+DNINVENTORY - Du erhältst alle Gegenstände
+DNKEYS - Du erhältst alle Schlüssel
+DNSCOTTYxyy - Warp in Episode x (1-3) und in Level yy (01-06 in
+Episode 1, 01-11 in den Episoden 2 und 3)
+DNCLIP - No Clipping Mode
+DNVIEW - Du schaust Duke über die Schulter
+DNMONSTERS - Alle Monster im Level verschwinden
+DNSKILLx - Wechselt Skill-Level zu x (1-4)
+DNSHOWMAP - Deckt die ganze Karte auf
+DNUNLOCK - Alle Türen gelten als zu öffnen
+DNUNGODLY - God-Mode AUS
+DNENDING - Beendet die Episode
+
+Technische Cheats:
+
+DNCOORDS - Gibt die aktuellen Koordinaten an
+DNDEBUG - Zeigt Debuginformationen an
+DNRATE - Zeigt Frame-Rate an
+
+Sinnlose Cheats:
+
+DNCASHMAN - Duke wirft Geldscheine, wenn Du [Space] drückst
+DNHYPER - Du nimmst Steroide
+DNBETA - Nachricht "Pirates Suck!" - Richtig
+DNALLEN - Nachricht "Buy Major Stryker"
+DNTODD - Nachricht "Register Cosmo Today"
+
+---
+
+Editiere die Datei user.con im Verzeichnis /Duke3D mit einem normalen
+Editor.
+
+Suche nach folgenden Zeilen:
+
+define MAXPLAYERHEALTH 999
+define MAXWATERFOUNTAINHEALTH 99
+
+und:
+
+define MAXPISTOLAMMO 999
+define MAXSHOTGUNAMMO 999
+define MAXCHAINGUNAMMO 999
+define MAXRPGAMMO 999
+define MAXHANDBOMBAMMO 999
+define MAXSHRINKERAMMO 999
+define MAXDEVISTATORAMMO 999
+define MAXFREEZEAMMO 999
+define MAXTRIPBOMBAMMO 999
+
+und ersetze die dort stehenden Zahlen durch die hier stehenden Zahlen.
+Nun hat man mit dem Cheat DNSTUFF mehr als genug Munition.
+
+Übrigens alle *.con Daten kann man auf diese Weise manipulieren,
+aber man muß erst mal wissen was die einzelnen Wörter bedeuten.
+
+---
+
+Wenn man bei Duke Nukem 3D auch in der 4. Schwierigkeitsstufe
+unverwundbar sein möchte, muß man sich nur vorher in einer
+anderen Stufe unverwundbar machen (Piece of Cake, Let's Rock
+oder Come Get Some), das laufende Spiel abbrechen und ein neues
+in "Damn, I'm Good" beginnen. Tata, wir sind unverwundbar und
+können uns jetzt auch hier nach Herzenslust austoben.
+
+---
+
+Wenn man ein Demo aufnehmen will, kann man ja keine Cheats eintippen.
+Das ist das eine oder andere mal ziemlich ärgerlich, denn ein zu weit
+an der Wand abgefeuerter RPG(Bazooka)schuß kann so manches Leben
+schnell zu Ende führen. Das kann man vermeiden, indem man ein Spiel
+startet, es gleich wieder abbricht und dann auf "OPTIONS" geht,
+"RECORD" einschaltet und dann ein neues Spiel startet. Shake it,
+Baby!!! Nun ist man beim Aufnehmen unverwundbar.
+
+---
+
+Wenn du mit dem Freezer auf einen Gegner schießt bis er gefroren ist,
+solltest du ihn nicht gleich umbringen! Denn wenn du diesen Vorgang ein
+paar mal wiederholst, läßt der Gegner immer wieder seine Waffe fallen!
+
+---
+
+In der Shareware Version funktionieren
+
+ab Version 1.0:
+
+DNKROZ oder DNCORNHOLIO - God-Mode AN/AUS
+DNSTUFF - Alle Waffen und aufgefüllte Munition
+DNSCOTTY1x - Warp zu Episode 1, Level x (1-6)
+DNITEMS - Alle Gegenstände und Schlüssel
+DNCASHMAN - Du spuckst Geld
+DNRATE - Frame-Rate
+DNVIEW - Du schaust Duke über die Schulter
+DNSKILLx - Ändert den Schwierigkeitsgrad auf x (1-4)
+DNBETA - Nachricht "Pirates Suck!"
+DNHYPER - Du nimmst einige Steroide
+DNMONSTERS - Alle Monster im Level verschwinden
+DNCOSMO - Nachricht
+DNALLEN - Nachricht
+
+ab Version 1.1:
+
+DNCLIP - No-Clipping-Mode
+
+ab Version 1.3:
+
+DNITEMS - Du bekommst alle Gegenstände und Schlüssel (aber keine
+Waffen oder Munition)
+DNWEAPONS - Du erhältst alle Waffen
+DNINVENTORY - Du erhältst alle Gegenstände
+DNKEYS - Du erhältst alle Schlüssel
+DNSCOTTY1xx - Warp in Episode 1 und in Level xx (01-06)
+DNSHOWMAP - Deckt die ganze Karte auf
+DNCOORDS - Gibt die aktuellen Koordinaten an
+DNDEBUG - Zeigt Debuginformationen an
+
+Wer bei Duke Nukem 3D alle Cheats bekommen will,(über 20) der muss mit einem
+Hexeditor die Exe-Datei öffnen und zb. nach stuff Suchen. Nun sind ca. 20
+Cheats untereinander angeordnet. Nun im Spiel Dn + den gewünschten Cheat
+eingeben! zb. DNstuff (super, he ?)
+
+---
+
+In der Shareware-Version gibt es einen geheimen Level, der Launch
+Factory heißt. Kurz vor Ende des vierten Levels ist in der letzten
+Biegung ein Stück erleuchtet. An der linken Wand ist dort ein
+Zeichen zu sehen. Schieße einmal mit dem RPG auf das Zeichen und der
+Eingang zum Extra-Level ist frei. Oder, wenn Du mal einen der o.g.
+Cheats ausprobieren möchtest: DNSCOTTY16 bzw. DNSCOTTY106
+
+---
+
+Für die Beta-Version (Ein-Level-Demo):
+
+Tippe DN während des Spieles ein und mit "Enter cheat code"
+wirst Du aufgefordert, einen der folgenden Codes einzugeben:
+
+CLIP - Clipping AN/AUS
+GODLY - God-Mode AN/AUS
+WEAPONS - Alle Waffen
+ITEMS - Alle Gegenstände und Schlüssel
+AMMO - Munition wird aufgefüllt
+UNLOCK - Schaltet das Überwachungspaßwort ab
+
+Zusammengetragen unter Mithilfe von
+
+Krajniak Dominik
+Christian Wienholz fen baynet de
+Pascal Schneider, Balingen
+Dennis Hoffmann, Wehretal
+Navid Zamani, N Zamani gmx net
+Matthias Schaab

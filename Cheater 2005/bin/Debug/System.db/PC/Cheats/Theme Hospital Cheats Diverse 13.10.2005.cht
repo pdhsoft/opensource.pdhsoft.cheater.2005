@@ -1,0 +1,64 @@
+Theme Hospital
+PC - Personal Computer
+
+Cheats
+Diverse
+13.10.2005
+
+Folgende Cheats müsst ihr in der Fax-Maschine eingeben und dann den grünen Knopf drücken. Achtung: Vielleicht funktionieren sie nur in der englischen Version. 
+
+7287 Du gewinnst den Shotlevel 
+24328 Müsst ihr eingeben um folgende Tastenkombinationen verwenden zu können 
+
+
+STRG+C Gesamte Forschung abgeschlossen 
+Shift+C Gibt $10,000 
+Ctrl+Y Ende des Jahres 
+Ctrl+M Ende des Monats 
+Ctrl+Shift+C Gibt dir alles 
+
+Dies ist der sog. Fax-Cheat. das alle Codes während des Bildschirms
+mit dem Fax-Gerät eingegeben werden müssen, nach Eigabe muss man an
+den Knöpfen herumspielen:
+
+7287 Nach dem Level-Gewinn gibt's ein lustiges Rattenschießen
+24328 Aktiviert folgende Cheat-Codes:
+
+[Strg][C] Alle Krankheiten und Geräte des Levels
+[Shift][Strg][C] Alle Krankheiten und Geräte des Spieles
+[Shift][C] Mehr Geld (+ 10.000 $)
+[Strg][M] Monatsende
+[Strg][Y] Jahresende
+[Strg][E] Sofortiger Notfall
+[Strg][S] Ein Arzt mit speziellen Fähigkeiten
+[Shift][I] Ändert die Krankheit des Patienten
+[Shift][1] Erhöht die Anzahl der Patienten
+[F11] Level verlieren
+[F12] Level gewinnen
+
+Wenn Du mit den Seuchen nicht klarkommst, dann mach folgendes:
+
+1. Speichere ab, sobald das Seuchensymbol erscheint.
+2. Lade den Speicherstand nun wieder und klicke auf das Seuchensymbol.
+Nun ist die Seuche verschwunden.
+
+Um direkt in einem bestimmten Level zu beginnen, starte das Spiel
+mit:
+
+HOSPITAL -Lx
+
+wobei x für den gewünschten Level steht. Klappt auch in Win95.
+
+---
+
+Lade Dein Savegame in den Hex-Editor und setze ab Offset 061A95 sechs
+F's ein ... nun solltest Du genug Geld haben. Die HexAdresse für die
+geheilten Patienten: 061C49 (kannst Du nach belieben erhöhen)
+
+
+---
+
+Wenn man die Leveldateien mit einem Texteditor ( wie Notepad ) öffnet,
+kann man dort eine Menge ändern ( zum Beispiel die Ziele , wo die
+Bedingung Ruf nicht änderbar ist ) , wobei man allerdings Englisch
+verstehen sollte !

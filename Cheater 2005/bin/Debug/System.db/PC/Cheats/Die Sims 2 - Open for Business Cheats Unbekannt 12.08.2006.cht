@@ -1,0 +1,20 @@
+Die Sims 2 - Open for Business
+PC - Personal Computer
+
+Cheats
+Unbekannt
+12.08.2006
+
+Drückt im Spiel Strg + Shift + C und gebt ein:
+
+kaching - $1,000
+
+motherload - $50,000
+
+boolProp TestingCheatsEnabled true - haltet Shift und macht einen Linksklick auf Sim bzw. Item und ihr habt neue Optionen
+
+boolProp TestingCheatsEnabled false - oben genanntes ausschalten
+
+move_objects on - Sims löschen und bewegen können, gilt auch für Items
+
+move_objects off - oben genanntes ausschalten 

@@ -1,0 +1,22 @@
+Emergency
+PC - Personal Computer
+
+Cheats
+Cheater 2005
+13.10.2005
+
+Im Verzeichnis \Emergency\data\Cars finden sich die Dateien mit den Informationen zu den einzelnen, im Spiel vorkommenden Fahrzeugen. Diese können mit einem normalen Hexeditor bearbeitet werden. So findet man z.B. in der Datei für das Fahrzeug F102 die folgenden Daten: 
+750 -> Kosten des Fahrzeugs 
+3 -> max. Besatzung 
+5 -> Geschwindigkeit 
+-4 -> Geländegängigkeit 
+
+Im Verzeichnis \Emergency\Data\d\Info findet man die Textdateien mit den Informationen, die zu einem Fahrzeug angezeigt werden. Diese kann man auch abändern, was zum Aktivieren der Veränderungen aber nicht nötig ist. Zur Übernahme der geänderten Daten ins Spiel kann es erforderlich sein, noch einmal bei Mission 1 zu beginnen oder das jeweilige Level neu zu starten 
+
+
+Rettung in letzter Sekunde? Falls es Ihnen am Geld hapert gibt´s hier einen nützlichen Cheat zum "Notfall-Rettungsprogramm": 
+Laden Sie Ihren gespeicherten Spielstand (*.hsv) in einen Hexeditor und suchen Sie nach den Offsets 44 und 45. Diese Werte überschreiben Sie mit FF FF und schon verfügen Sie beim nächsten Starten von Emergency über etwa 70.000 Mark. 
+
+
+- Sie können unerwünschte Hausgäste wie Randalierer oder Brandstifter leicht auch ohne Unterstützung der Polizei loswerden. Schicken Sie einen mutigen Trupp Feuerwehrmänner in das befallene Gebäude, denn diese furchtlosen Helden nehmen die Chaoten einfach selbst in Gewahrsam, ohne dabei attackiert zu werden. Draußen wird das Gesindel dann den grün-weißen Beamten überlassen. 
+- Behandeln Sie verletzte Personen bevorzugt im Rettungswagen oder Hubschrauber. Lassen Sie dafür zunächst den Notarzt in das betreffende Fahrzeug einsteigen, während die Sanitäter den armen Verunfallten ebenfalls dorthinein transportieren. Es wird sofort eine automatische Diagnose erstellt. Von Vorteil ist bei dieser ganzen Aktion, daß das Opfer schneller behandelt und weggebracht werden kann, außerdem sparen Sie sich so die Kosten für ein mobiles Krankenhauszelt.  

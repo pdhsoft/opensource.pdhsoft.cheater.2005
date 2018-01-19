@@ -1,0 +1,73 @@
+XIII
+PC - Personal Computer
+
+Cheats
+Frederik
+13.10.2005
+
+Wenn ihr in der Konsole "playersonly" eingibt könnt ihr euch frei bewegen ohne dass dich Gegner stören - die konsole öffnet ihr mit y aber ihr müsst das wort teamsay löschen!
+
+Gebt "superdeform" ein und die Köpfe und Füße sind komisch propotioniert. 
+
+----
+ 
+Die Datei "DefUser.ini" mit einem Editor öffnen und folgende Zeile hinzufügen:
+
+F2=Console 
+
+Das Spiel mit den Kommandozeilenparamtern
+
+-console -bemymonkey
+
+starten. F2 ist nun standardmässig die Konsole (kleines Eingabefenster wo nix drinsteht unten 
+am Bildrand, kaum zu sehen) - diese öffnen. Nun folgendes eintippen und danach Enter drücken:
+
+healme 100 = 100er Medipack
+maxammo = Munition
+Suicide = Selbstmord
+Quit = Spiel beenden  
+ 
+Autor: FleshFeast 
+----
+Öffnet die Datei user.ini in eurem XIII/system Verzeichnis und schreibt hinter eine der unbelegten Tasten einen der folgenden Codes, wobei mehrere Einträge mit einem | getrennt werden:
+
+ghost: Fliegen & kein Clipping
+walk: Wieder normal
+god: Gott Modus
+allammo: Volle Munition
+summon xiii.X: Gegenstand X erhalten
+
+Für die Waffen muss folgendes angehängt werden:
+MagnumPick: Magnum
+GrenadPick: Granate
+KalashPick: Kalashnikov
+ArbaletePick: Armbrust
+SilencerPick: Schalldämpfer
+TKnifePick: Messer
+FusilPombePick: Shotgun
+BerettaPick: Beretta
+
+Für in der Demo nicht verwendbare Waffen:
+ArbaleteX3Pick: 3fach Armbrust
+BazookPick: Bazooka
+LHarponPick: Harpune
+FusilSnipePick: Sniper Rifle
+m60Pick: M60
+FusilChassePick: Jagdgewehr
+FGrenadPick: Granate
+MiniUziPick: Mini Uzi
+
+Für die Powerups:
+GiletMk1Pick: Leichte Weste
+GiletMk2Pick: Schwere Weste
+CasquePick: Helm
+AutoFullMePick: Medikit  
+ Öffnet die Datei user.ini in eurem XIII/system Verzeichnis und ersetzt die Zeile Comma= mit Comma=GOD.
+Wenn Ihr nun im Spiel , drückt schaltet Ihr den Godmode ein. 
+Autor: Falko 
+-----
+Im Spiel F2 drücken, dann in die Box eingeben:
+
+healme 100 - 100 HP heilen 
+maxammo - maximale Munition 
+healme x - x HP heilen (für x eine Zahl einsetzen)  
